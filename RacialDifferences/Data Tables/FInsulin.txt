@@ -1,0 +1,244 @@
+RecID|PtID|SiteID|InsName|InsRoute|InsInjectionFreq|InsTypeStart|InsTypeStartDaysFromEnroll|InsTypeStartUnknown|InsTypeStopDaysFromEnroll|InsTypeStopUnknown|InsTypeStartEstimate|InsTypeStopEstimate
+1|49|4|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+2|93|4|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+3|164|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+4|164|4|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+5|114|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+6|114|4|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+7|228|3|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+8|5|3|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+9|5|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+10|156|1|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+11|190|9|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+12|33|1|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+13|215|1|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+14|160|1|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+15|160|1|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+16|157|1|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+17|157|1|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+18|191|1|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+20|65|3|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+21|97|3|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+22|97|3|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+23|217|1|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+24|217|1|Novolog (Aspart)|Injection|1|In use at time of enrollment||||||
+25|50|4|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+26|108|4|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+27|57|1|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+28|57|1|Apidra (Glulisine)|Injection|3|In use at time of enrollment||||||
+29|132|1|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+30|132|1|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+31|70|1|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+34|102|2|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+35|95|3|Novolog (Aspart)|Injection|4|In use at time of enrollment||||||
+36|95|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+37|31|1|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+38|31|1|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+40|169|1|Lantus (Glargine) 2 times per day|Injection|2|Started after enrollment|17|||||
+41|165|1|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+42|165|1|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+43|171|1|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+44|171|1|Levemir (Detemir) 2 times per day|Injection|2|In use at time of enrollment||||||
+45|26|3|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+46|27|3|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+47|211|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+48|211|3|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+49|84|4|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+50|91|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+51|91|4|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+52|152|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+53|195|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+54|195|9|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+55|61|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+56|61|4|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+57|86|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+58|75|5|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+59|35|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+60|163|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+61|184|9|Novolin N (NPH)|Injection|2|In use at time of enrollment||||||
+62|184|9|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+63|63|9|Levemir (Detemir) 2 times per day|Injection|2|In use at time of enrollment||||||
+64|63|9|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+65|99|7|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+66|99|7|Novolog (Aspart)|Injection|4|In use at time of enrollment||||||
+67|22|7|Novolog 70/30|Pump||In use at time of enrollment||||||
+68|159|9|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+69|159|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+71|106|5|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+74|45|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+75|179|8|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+76|161|8|Novolog (Aspart)|Injection|Unknown|In use at time of enrollment||||||
+77|161|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+78|105|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+79|17|5|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+80|43|7|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+81|153|5|Novolog (Aspart)|Pump||In use at time of enrollment||||1||
+82|172|3|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+83|143|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+84|3|7|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+85|149|4|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+86|118|5|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+87|147|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+88|88|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+89|185|6|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+90|208|2|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+91|208|2|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+92|203|7|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+93|81|7|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+94|81|7|Levemir (Detemir) 2 times per day|Injection|2|In use at time of enrollment||||||
+95|141|7|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+96|154|7|Apidra (Glulisine)|Pump||In use at time of enrollment||||||
+97|162|10|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+98|53|5|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+99|53|5|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+100|111|3|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+101|111|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+102|218|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+103|218|9|Novolog (Aspart)|Injection|2|In use at time of enrollment||||||
+104|30|5|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+105|48|3|Novolog (Aspart)|Injection|4|In use at time of enrollment||||||
+106|48|3|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+107|55|7|Novolog 70/30|Pump||In use at time of enrollment||||||
+108|44|9|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+109|25|5|Apidra (Glulisine)|Pump||In use at time of enrollment||||||
+110|123|5|Levemir (Detemir) 1 time per day|Injection|1|In use at time of enrollment||||||
+111|123|5|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+112|176|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+113|176|9|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+114|10|3|Humalog (Lispro)|Pump||Unknown||||||
+115|21|3|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+116|200|3|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+117|181|9|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+118|181|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+119|186|7|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+120|56|7|Levemir (Detemir) 1 time per day|Injection|1|In use at time of enrollment||||||
+121|56|7|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+122|2|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+123|2|9|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+124|225|3|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+125|225|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+126|174|3|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+128|101|7|Novolin 70/30|Injection|2|In use at time of enrollment||||||
+129|101|7|Novolog (Aspart)|Injection|Unknown|In use at time of enrollment||||||
+130|210|3|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+131|210|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+132|127|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+133|170|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+134|170|8|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+135|120|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+136|120|8|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+137|133|8|Novolog (Aspart)|Injection|5|In use at time of enrollment||||||
+138|133|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+139|139|8|Novolog (Aspart)|Injection|5|In use at time of enrollment||||||
+140|139|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+141|51|9|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+142|51|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+143|51|9|Humulin N (NPH)|Injection|1|In use at time of enrollment||||||
+144|85|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+145|85|9|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+146|214|6|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+147|214|6|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+148|71|7|Levemir (Detemir) 1 time per day|Injection|Unknown|In use at time of enrollment||||||
+149|71|7|Novolog (Aspart)|Injection|Unknown|In use at time of enrollment||||||
+150|119|7|Levemir (Detemir) 2 times per day|Injection|2|In use at time of enrollment||||||
+151|119|7|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+152|138|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+153|138|9|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+154|107|6|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+155|140|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+156|140|4|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+157|60|4|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+158|166|3|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+159|166|3|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+160|129|3|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+162|126|3|Levemir (Detemir) 1 time per day|Injection|1|In use at time of enrollment||||||
+163|126|3|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+164|98|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+165|98|4|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+166|73|9|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+168|20|7|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+169|20|7|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+172|158|7|Levemir (Detemir) 1 time per day|Injection|1|In use at time of enrollment||||||
+173|158|7|Humalog (Lispro)|Injection|4|In use at time of enrollment|||-12|||
+174|64|7|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+175|64|7|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+176|37|3|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+177|37|3|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+178|34|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+179|34|9|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+180|205|7|Humulin 70/30|Injection|2|In use at time of enrollment||||||
+181|205|7|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+182|12|7|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+183|12|7|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+184|193|8|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+185|52|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+186|223|8|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+187|223|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+188|9|5|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+189|9|5|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+190|226|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+191|226|9|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+192|76|3|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+193|104|6|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+194|117|8|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+195|216|6|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+196|124|3|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+197|130|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+198|130|9|Humalog (Lispro)|Injection|2|In use at time of enrollment||||||
+199|110|5|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+200|40|8|Novolog 70/30|Pump||In use at time of enrollment||||||
+201|28|7|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+202|11|5|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+203|11|5|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+204|146|3|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+205|146|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+206|77|7|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+207|77|7|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+208|158|7|Apidra (Glulisine)|Injection|4|In use at time of enrollment||||||
+210|16|6|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+211|187|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+212|187|9|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+213|74|7|Novolog 70/30|Injection|Unknown|In use at time of enrollment||||||
+214|74|7|Humalog (Lispro)|Injection|Unknown|In use at time of enrollment||||||
+215|29|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+216|103|6|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+217|125|8|Novolog (Aspart)|Pump||In use at time of enrollment||||||
+218|183|8|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+219|177|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+220|177|4|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+221|87|6|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+222|121|9|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+223|121|9|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+224|36|3|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+225|36|3|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+226|96|3|Novolin N (NPH)|Injection|2|In use at time of enrollment||||||
+227|96|3|Regular (R) (Humulin R or Novolin R)|Injection|4|In use at time of enrollment||||||
+229|173|8|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+230|198|3|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+231|198|3|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+232|155|5|Lantus (Glargine) 1 time per day|Injection|Unknown|In use at time of enrollment||||||
+233|155|5|Novolog (Aspart)|Injection|Unknown|In use at time of enrollment||||||
+234|220|7|Lantus (Glargine) 2 times per day|Injection|1|In use at time of enrollment||||||
+235|220|7|Humalog (Lispro)|Injection|5|In use at time of enrollment||||||
+236|212|5|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+237|4|7|Novolog (Aspart)|Injection|5|In use at time of enrollment||||||
+238|4|7|Levemir (Detemir) 1 time per day|Injection|1|In use at time of enrollment||||||
+239|219|8|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+240|83|4|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+241|83|4|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+242|8|6|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+243|8|6|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+244|144|6|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+245|41|9|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+248|54|5|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+249|54|5|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+250|1|6|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+251|1|6|Humalog (Lispro)|Injection|3|In use at time of enrollment||||||
+252|116|9|Lantus (Glargine) 2 times per day|Injection|2|In use at time of enrollment||||||
+253|116|9|Humalog (Lispro)|Injection|4|In use at time of enrollment||||||
+254|80|8|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+255|80|8|Novolog (Aspart)|Injection|Unknown|In use at time of enrollment||||||
+256|122|6|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||
+257|122|6|Humalog (Lispro)|Pump||In use at time of enrollment||||||
+258|194|5|Novolog (Aspart)|Injection|3|In use at time of enrollment||||||
+259|194|5|Lantus (Glargine) 1 time per day|Injection|1|In use at time of enrollment||||||

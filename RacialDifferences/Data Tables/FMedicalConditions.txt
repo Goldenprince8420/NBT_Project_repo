@@ -1,0 +1,416 @@
+RecID|PtID|SiteID|MedCond|MedCondPreStart|MedCondPreStartCat|MedCondPreStartTreat|MedCondDiagDtDaysFromEnroll|MedCondDiagDtApprox|MedCondDiagDtUnk|MedCondTrt|MedCondResDtDaysFromEnroll|MedCondResDtApprox|MedCondStatus|MedCondDiagMonthsAfterEnroll|MedCondDiagYearsAfterEnroll|MedCondCurrTreatMed
+1|93|4|Irritable bowel syndrome|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+2|93|4|Lactose intolerance|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+3|5|3|Iron deficiency|Yes|5 years to < 10 years|Past|||||||Ongoing, medically stable|||
+4|5|3|Menorrhagia|Yes|5 years to < 10 years|Never|||||-625||Complete Recovery|||
+5|156|1|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+6|190|9|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+7|190|9|Diabetic gastroparesis|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+8|190|9|Depression|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+9|190|9|LDL cholesterol increased|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+10|190|9|Hashimoto's disease|Yes|Unknown|Past|||||||Ongoing, medically stable|||
+11|190|9|Attention deficit disorder|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+12|190|9|Diabetic peripheral neuropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+13|190|9|Preproliferative diabetic retinopathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+14|33|1|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+15|215|1|Hypothyroidism|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+16|160|1|Dry eye|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+17|57|1|Hypercholesterolemia|Yes|6 months to < 1 year|Current|||||||Ongoing, medically stable|||
+18|57|1|Bipolar disorder|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+19|70|1|Osteoporosis|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+20|70|1|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+21|70|1|Prostate cancer|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+22|70|1|Chronic kidney disease|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+23|138|9|Depression|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+24|102|2|Microalbuminuria|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+25|102|2|Hashimoto's disease|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+26|171|1|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+27|165|1|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+28|165|1|Erectile dysfunction|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+29|171|1|Erectile dysfunction|Yes|6 months to < 1 year|Current|||||||Ongoing, medically stable|||
+30|26|3|Neuropathy|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+31|27|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+32|211|3|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+33|211|3|Hypertriglyceridemia|Yes|Unknown|Past|||||||Ongoing (further improvement / worsening possible)|||
+34|152|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+35|152|5|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+36|152|5|Headache|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+37|152|5|Diabetic gastroparesis|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+38|152|5|Osteopenia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+39|152|5|Acid reflux (oesophageal)|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+40|152|5|Hearing loss|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+41|195|9|Hypothyroidism|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+42|195|9|Vitiligo|Yes|6 months to < 1 year|Never|||||||Ongoing (further improvement / worsening possible)|||
+43|195|9|Dyslipidemia|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+44|195|9|Idiopathic thrombocytopenic purpura|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+45|195|9|Raynaud's disease|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+46|86|5|Dyslipidemia|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+47|86|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+48|75|5|Von Willebrand's disease|Yes|>=10 years|Never|||||||Ongoing, medically stable|||
+49|75|5|Mitral valve prolapse|Yes|>=10 years|Never|||||||Ongoing, medically stable|||
+50|163|5|Hypertension|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+51|163|5|Diabetic peripheral neuropathy|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+52|163|5|LDL cholesterol increased|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+53|163|5|Trigger finger|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+54|163|5|Gallstones|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+55|184|9|Fatty liver|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+56|184|9|Coronary artery disease|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+57|184|9|Hypertension|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+58|184|9|Hyperlipidemia|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+59|184|9|Blindness|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+60|184|9|Proliferative diabetic retinopathy|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+61|184|9|Diabetic peripheral neuropathy|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+62|184|9|Sleep apnea|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+63|184|9|Erectile dysfunction|Yes|Unknown|Past|||||||Ongoing (further improvement / worsening possible)|||
+64|63|9|Depression|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+65|63|9|Schizoaffective disorder|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+66|63|9|Anxiety|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+67|63|9|Gastroesophageal reflux|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+68|63|9|LDL cholesterol increased|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+69|63|9|Diabetic peripheral neuropathy|Yes|5 years to < 10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+70|63|9|Hypertension|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+71|159|9|Hypothyroidism|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+72|159|9|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+73|163|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+74|106|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+75|106|5|Difficulty sleeping|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+76|106|5|Ovarian cancer|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+77|106|5|Dyslipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+78|17|5|Hashimoto's disease|Yes|>=10 years|Never|||||||Ongoing, medically stable|||
+79|17|5|Hypercholesterolemia|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+80|17|5|Hypoglycemia|Yes|Unknown|Past|||||||Ongoing, medically stable|||
+81|99|7|Obesity|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+82|99|7|Diabetic ketoacidosis|Yes|>30 days to < 3 months|Past|||||-67||Complete Recovery|||
+83|22|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+84|22|7|Hypoglycemia|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+85|22|7|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+86|105|5|Coronary artery disease|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+87|105|5|Hypertension|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+88|105|5|Hyperlipidemia|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+89|105|5|Hypoglycemia|Yes|1 year to < 5 years|Past|||||||Ongoing, medically stable|||
+90|105|5|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+91|105|5|Hearing loss|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+92|105|5|Diabetes|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+93|105|5|Peripheral vascular disease|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+94|105|5|Asthma|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+95|105|5|Retinal hemorrhage|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+96|105|5|Cataract|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+97|105|5|Angina pectoris|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+98|45|8|Type I diabetes mellitus|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+99|179|8|Type I diabetes mellitus|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+100|161|8|Type I diabetes mellitus|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+101|43|7|Attention deficit/hyperactivity disorder|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+102|43|7|Lipohypertrophy|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+103|153|5|Shoulder blade pain|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+104|153|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+105|153|5|Osteoporosis|Yes|Unknown|Past|||||||Ongoing, medically stable|||
+106|153|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+107|153|5|Migraine headache|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+108|153|5|Ptosis|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+109|153|5|Raynaud's disease|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+110|3|7|IgA deficiency|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+111|143|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+112|143|5|Dyslipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+113|143|5|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+114|3|7|Asthma|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+115|3|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+116|3|7|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+117|118|5|Creatinine abnormal NOS|Yes|5 years to < 10 years|Never|||||||Ongoing, medically stable|||
+118|118|5|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+119|118|5|Onychomycosis|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+120|118|5|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+121|118|5|Mitral valve prolapse|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+122|118|5|Diabetic retinopathy|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+123|118|5|Diabetic macular edema|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+124|147|8|Type I diabetes mellitus|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+125|88|8|Attention deficit disorder|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+126|88|8|Depression|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+127|88|8|Type I diabetes mellitus|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+128|88|8|Celiac disease|Yes|5 years to < 10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+129|203|7|Celiac disease|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+130|203|7|Eczema|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+131|81|7|Hyperlipidemia|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+132|81|7|Hypertension|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+134|81|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+135|141|7|Celiac disease|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+136|141|7|Asthma|Yes|5 years to < 10 years|Current|||||||Ongoing, medically stable|||
+137|141|7|Hypothyroidism|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+138|154|7|Eczema|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+139|154|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+140|162|10|Cervical pap smear abnormal|No|||-114|||Surgery|-114||Complete Recovery|||
+141|94|5|Respiratory tract infection fungal|Yes|>=10 years|Past|||||||Ongoing, medically stable|||
+142|94|5|Dry eye|Yes|>30 days to < 3 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+143|94|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+144|94|5|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+145|53|5|Short stature|Yes|5 years to < 10 years|Never|||||||Ongoing, medically stable|||
+146|53|5|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+147|111|3|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+148|218|9|Diabetic retinopathy|Yes|5 years to < 10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+149|30|5|Hypertension|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+150|30|5|Diabetic peripheral neuropathy|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+151|30|5|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+152|30|5|Erectile dysfunction|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+153|30|5|Proteinuria|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+154|30|5|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+155|30|5|Chronic kidney disease|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+156|30|5|Preproliferative diabetic retinopathy|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+157|30|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+158|48|3|Hypercholesterolemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+159|25|5|Hypertension|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+160|25|5|Diabetic peripheral neuropathy|Yes|5 years to < 10 years|Never|||||||Ongoing, medically stable|||
+161|25|5|Anxiety|Yes|>=10 years|Past|||||||Ongoing, medically stable|||
+162|55|7|Hyperlipidemia|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+163|55|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+164|55|7|Microalbuminuria|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+165|25|5|Osteoporosis|Yes|5 years to < 10 years|Current|||||||Ongoing, medically stable|||
+166|25|5|Microalbuminuria|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+167|25|5|Cataract|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+169|55|7|Anxiety|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+170|25|5|Gastroesophageal reflux|Yes|5 years to < 10 years|Current|||||||Ongoing, medically stable|||
+171|25|5|Hypercholesterolemia|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+172|25|5|Spinal osteoarthritis|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+173|25|5|Urinary incontinence|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+174|25|5|Degenerative disc disease|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+175|25|5|Bronchitis|Yes|>30 days to < 3 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+176|44|9|Hypertension|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+177|44|9|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+178|44|9|Coronary artery disease|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+179|44|9|Hyperlipidemia|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+180|44|9|Microalbuminuria|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+181|44|9|Prostatic hyperplasia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+182|123|5|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+183|123|5|Proliferative diabetic retinopathy|Yes|6 months to < 1 year|Never|||||||Ongoing (further improvement / worsening possible)|||
+184|123|5|Vitamin D deficiency|Yes|3 months to < 6 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+185|123|5|Diabetic neuropathy|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+186|123|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+187|123|5|Cerebrovascular accident|Yes|>=10 years|Never|||||||Ongoing, medically stable|||
+188|123|5|Goiter|Yes|6 months to < 1 year|Never|||||||Ongoing, medically stable|||
+189|176|9|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+190|10|3|Asthma|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+191|10|3|Acid reflux (oesophageal)|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+192|10|3|Sinusitis|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+193|10|3|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+194|21|3|Hashimoto's disease|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+196|200|3|Depression|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+197|200|3|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+198|200|3|Multiple sclerosis|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+199|181|9|Sleep apnea|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+200|181|9|Hypertension|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+201|181|9|Hyperlipidemia|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+202|181|9|Depression|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+203|181|9|Erectile dysfunction|Yes|6 months to < 1 year|Current|||||||Ongoing (further improvement / worsening possible)|||
+204|186|7|Vitamin D deficiency|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+205|56|7|Hyperlipidemia|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+206|56|7|Vitamin D deficiency|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+207|2|9|Preproliferative diabetic retinopathy|Yes|5 years to < 10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+208|2|9|Migraine with aura|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+209|2|9|Microalbuminuria|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+210|2|9|Joint pain|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+211|2|9|Peripheral neuropathy NOS|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+212|2|9|Hyperlipidemia|Yes|5 years to < 10 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+213|2|9|Hypertension|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+214|2|9|Depression|Yes|5 years to < 10 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+215|2|9|Anxiety|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+216|225|3|Hypertension|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+217|225|3|Hyperlipidemia|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+218|174|3|Microalbuminuria|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+219|174|3|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+220|101|7|Lactose intolerance|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+221|101|7|Seasonal allergy|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+222|101|7|Vitamin D deficiency|Yes|1 year to < 5 years|Past|||||||Ongoing, medically stable|||
+223|153|5|Pneumonia|No|||29|||Medication|44||Complete Recovery|||
+224|153|5|Cold|No|||26|||None|44||Complete Recovery|||
+225|210|3|Depression|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+226|120|8|Asthma|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+227|51|9|Hypertension|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+228|51|9|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+229|51|9|Osteopenia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+230|51|9|Glaucoma NOS|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+231|51|9|Hashimoto's disease|Yes|5 years to < 10 years|Past|||||||Ongoing, medically stable|||
+232|51|9|Alopecia|Yes|>=10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+233|85|9|Hyperlipidemia|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+234|85|9|Allergic rhinitis|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+235|214|6|Depression|Yes|6 months to < 1 year|Current|||||||Ongoing, medically stable|||
+236|166|3|Erectile dysfunction|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+237|166|3|Hypogonadism|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+238|166|3|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+239|166|3|Allergic rhinitis|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+240|166|3|Sleep apnea|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+241|140|4|Attention deficit/hyperactivity disorder|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+242|140|4|Hashimoto's disease|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+243|60|4|Attention deficit/hyperactivity disorder|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+244|107|6|Hypothyroidism|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+245|18|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+246|166|3|Pedal edema|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+247|129|3|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+248|126|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+249|126|3|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+250|126|3|Thyroid nodule|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+251|222|9|Gastric bypass|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+252|222|9|Vitamin B12 deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+253|222|9|Anxiety|Yes|6 months to < 1 year|Current|||||||Ongoing (further improvement / worsening possible)|||
+254|98|4|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+255|73|9|Hyperlipidemia|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+256|73|9|Osteopenia|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+257|73|9|Diverticulosis|Yes|>=10 years|Past|||||||Ongoing, medically stable|||
+258|73|9|Asthma|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+259|73|9|Back pain|Yes|5 years to < 10 years|Past|||||||Ongoing, medically stable|||
+260|73|9|Breast cancer|Yes|>=10 years|Past|||||||Ongoing, medically stable|||
+261|73|9|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+262|25|5|Sinus infection|No|||37|||Medication|54||Complete Recovery|||
+263|133|8|Headache|No|||27|||Medication|32||Complete Recovery|||
+264|133|8|Constipation|No|||27|||Medication|32||Complete Recovery|||
+265|133|8|Nausea|No|||27|||Medication|32||Complete Recovery|||
+266|133|8|Vomiting|No|||27|||Medication|32||Complete Recovery|||
+267|20|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+268|9|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+269|9|5|Chronic kidney disease|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+270|9|5|Toe amputation|Yes|5 years to < 10 years|Past|||||||Ongoing, medically stable|||
+271|9|5|Diabetic foot ulcer|Yes|5 years to < 10 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+272|9|5|Venous insufficiency|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+273|9|5|Sleep apnea|Yes|5 years to < 10 years|Never|||||||Ongoing, medically stable|||
+274|9|5|Charcot arthropathy|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+275|9|5|Cataract|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+276|9|5|Vitamin D deficiency|Yes|6 months to < 1 year|Current|||||||Ongoing (further improvement / worsening possible)|||
+277|9|5|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+278|158|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+279|64|7|Vitamin D deficiency|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+280|64|7|Attention deficit/hyperactivity disorder|Yes|5 years to < 10 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+281|64|7|Oppositional defiant disorder|Yes|5 years to < 10 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+282|37|3|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+283|34|9|Depression|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+284|34|9|Anxiety|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+285|34|9|Acne|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+286|34|9|Skin lesion|Yes|6 months to < 1 year|Current|||||||Ongoing (further improvement / worsening possible)|||
+287|205|7|Vitamin D deficiency|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+288|205|7|Hyperlipidemia|Yes|6 months to < 1 year|Never|||||||Ongoing (further improvement / worsening possible)|||
+289|205|7|Depression|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+290|12|7|Vitamin D deficiency|Yes|3 months to < 6 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+291|52|8|Nausea|Yes|6 months to < 1 year|Never|||||||Ongoing (further improvement / worsening possible)|||
+292|52|8|Gastritis|Yes|6 months to < 1 year|Current|||||||Ongoing (further improvement / worsening possible)|||
+293|52|8|Seizures|Yes|3 months to < 6 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+294|52|8|Depression|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+295|223|8|Vitamin D deficiency|Yes|<=30 days|Current|||||||Ongoing (further improvement / worsening possible)|||
+296|223|8|Seizures|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+297|223|8|Obesity|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+298|199|5|Cataract|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+299|199|5|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+300|199|5|Erectile dysfunction|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+301|199|5|Dyslipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+302|199|5|Seizures|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+303|199|5|Diabetic retinopathy|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+304|199|5|Glaucoma NOS|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+305|199|5|Vitamin D deficiency|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+306|199|5|Thrombocytopenia|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+307|199|5|Subconjunctival hemorrhage|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+308|226|9|Hyperlipidemia|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+309|226|9|Asthma|Yes|>=10 years|Past|||||||Ongoing, medically stable|||
+310|76|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+311|76|3|Microalbuminuria|Yes|3 months to < 6 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+312|117|8|Dysmenorrhea|Yes|>30 days to < 3 months|Never|||||||Ongoing (further improvement / worsening possible)|||
+313|117|8|Menorrhagia|Yes|>30 days to < 3 months|Never|||||||Ongoing (further improvement / worsening possible)|||
+314|117|8|Anxiety|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+315|124|3|Diabetic retinopathy|Yes|5 years to < 10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+316|124|3|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+317|124|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+318|124|3|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+319|130|9|Chronic pain|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+320|130|9|Diabetic peripheral neuropathy|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+321|130|9|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+322|130|9|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+323|130|9|Diabetic nephropathy|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+324|130|9|Degenerative disc disease|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+325|130|9|Erectile dysfunction|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+326|110|5|Testicular disorder NOS|Yes|Unknown|Past|||||||Ongoing (further improvement / worsening possible)|||
+327|110|5|Testosterone low|Yes|Unknown|Past|||||||Ongoing (further improvement / worsening possible)|||
+328|11|5|Coronary angioplasty|Yes|Unknown|Past|||||||Ongoing, medically stable|||
+329|11|5|Hypertension|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+330|11|5|Diabetic peripheral neuropathy|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+331|11|5|Coronary artery disease|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+332|11|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+333|11|5|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+334|11|5|Back pain|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+335|11|5|Spinal stenosis of unspecified region|Yes|Unknown|Past|||||||Ongoing, medically stable|||
+336|77|7|Growth hormone deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+337|77|7|Vitamin D deficiency|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+338|203|7|Vitamin D deficiency|No|||33|||Medication|||Ongoing (further improvement / worsening possible)|||
+339|16|6|Attention deficit/hyperactivity disorder|Yes|5 years to < 10 years|Current|||||||Ongoing, medically stable|||
+340|187|9|Hearing loss|Yes|3 months to < 6 months|Never|||||||Ongoing (further improvement / worsening possible)|||
+341|187|9|Degenerative joint disease|Yes|3 months to < 6 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+342|187|9|Diabetic peripheral neuropathy|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+343|187|9|Gastroparesis|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+344|187|9|Depression|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+345|187|9|Dyslipidemia|Yes|5 years to < 10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+346|74|7|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+347|29|8|Vitamin D deficiency|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+348|125|8|Proteinuria|Yes|1 year to < 5 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+349|198|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+350|198|3|Dyslipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+351|198|3|Glaucoma NOS|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+352|198|3|Neuropathy|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+353|198|3|Diabetic nephropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+354|198|3|Diabetic retinopathy|Yes|Unknown|Past|||||||Ongoing (further improvement / worsening possible)|||
+355|177|4|Attention deficit/hyperactivity disorder|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+356|177|4|Oppositional defiant disorder|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+357|121|9|Erectile dysfunction|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+358|121|9|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+359|121|9|Acid reflux (oesophageal)|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+360|36|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+361|36|3|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+362|36|3|Diabetic peripheral neuropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+363|36|3|Proliferative diabetic retinopathy|Yes|Unknown|Past|||||||Ongoing (further improvement / worsening possible)|||
+364|36|3|Cataract|Yes|1 year to < 5 years|Past|||||-820||Complete Recovery|||
+365|36|3|Diabetic nephropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+366|96|3|Hypertension|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+367|96|3|Neuropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+368|96|3|Glaucoma NOS|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+369|96|3|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+370|96|3|Depression|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+371|155|5|Peripheral vascular disease|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+372|155|5|Acid reflux (oesophageal)|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+373|155|5|Hearing loss|Yes|6 months to < 1 year|Never|||||||Ongoing (further improvement / worsening possible)|||
+374|155|5|Parkinson's disease|Yes|>30 days to < 3 months|Current|||||||Ongoing (further improvement / worsening possible)|||
+375|155|5|Hypertension|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+376|155|5|Diabetic peripheral neuropathy|Yes|>=10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+377|155|5|Hyperlipidemia|Yes|>=10 years|Current|||||||Ongoing, medically stable|||
+378|155|5|Erectile dysfunction|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+379|155|5|Benign neoplasm|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+380|155|5|Hematuria|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+381|155|5|Ventricular tachycardia|Yes|1 year to < 5 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+382|155|5|Osteomalacia|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+383|155|5|Angioedema|Yes|Unknown|Past|||||||Ongoing, medically stable|||
+384|155|5|Renal insufficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+385|155|5|Diabetic retinopathy|Yes|>=10 years|Never|||||||Ongoing (further improvement / worsening possible)|||
+386|155|5|Coronary artery disease|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+387|220|7|Celiac disease|Yes|1 year to < 5 years|Never|||||||Ongoing, medically stable|||
+388|212|5|Anxiety|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+389|212|5|Osteopenia|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+390|212|5|Raynaud's disease|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+391|212|5|Acid reflux (oesophageal)|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+392|212|5|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+393|8|6|Asthma|Yes|5 years to < 10 years|Current|||||||Ongoing, medically stable|||
+394|8|6|Seasonal allergy|Yes|5 years to < 10 years|Current|||||||Ongoing, medically stable|||
+395|126|3|Gastritis|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+396|126|3|Neuropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+397|41|9|Hyperlipidemia|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+398|41|9|Erectile dysfunction|Yes|5 years to < 10 years|Past|||||||Ongoing (further improvement / worsening possible)|||
+399|54|5|Diabetic peripheral neuropathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+401|54|5|Depression|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+402|54|5|Erectile dysfunction|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+404|54|5|Diabetic retinopathy|Yes|Unknown|Current|||||||Ongoing (further improvement / worsening possible)|||
+406|54|5|Hypothyroidism|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+409|54|5|Gastroesophageal reflux|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+410|54|5|Hyperlipidemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+411|116|9|Hypertension|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+412|122|6|Asthma|Yes|>=10 years|Current|||||||Ongoing (further improvement / worsening possible)|||
+413|122|6|Celiac disease|Yes|6 months to < 1 year|Never|||||||Ongoing, medically stable|||
+414|194|5|Peripheral vascular disease|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+415|194|5|Sleep apnea|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+416|194|5|Hypercholesterolemia|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+417|194|5|Vitamin D deficiency|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+418|194|5|Diabetic peripheral neuropathy|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+419|194|5|Cataract|Yes|Unknown|Never|||||||Ongoing (further improvement / worsening possible)|||
+420|194|5|Hypoglycemia|Yes|Unknown|Never|||||||Ongoing, medically stable|||
+421|194|5|Gastroesophageal reflux|Yes|Unknown|Current|||||||Ongoing, medically stable|||
+422|167|7|Seasonal allergy|Yes|1 year to < 5 years|Current|||||||Ongoing, medically stable|||
+423|116|9|Microalbuminuria|Yes|1 year to < 5 years|Current|||||||Ongoing (further improvement / worsening possible)|||

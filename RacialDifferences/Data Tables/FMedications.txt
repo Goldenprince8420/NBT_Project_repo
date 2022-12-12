@@ -1,0 +1,419 @@
+RecID|PtID|SiteID|MedDose|MedUnit|MedDoseUnk|MedRoute|MedLocSide|MedFreqType|MedFreqNum|MedFreqPer|MedFreqUnk|MedInd|MedicalCondition1|AdverseEvent1|MedStartTrtCat|MedStartDaysFromEnroll|MedStartDtApprox|MedStopDaysFromEnroll|MedStopDtApprox|MedOngoing|MedStartMonthsAfterEnroll|MedStartYearsAfterEnroll|MedStopMonthsAfterEnroll|MedStopYearsAfterEnroll|MedStopDtUnk|PreExistingCondition1|MedStartDtUnk|MedCondNotReqd|PreExistCondNotReqd|DrugName|AdvEventNotReqd|MedicalCondition2|PreExistingCondition2|AdverseEvent2
+1|93|4|||1|PO||As Needed||||Prior to enrollment|Irritable bowel syndrome||On treatment at time of enrollment|||||1||||||||||Miralax||||
+2|93|4|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Omeprazole||||
+3|93|4|||1|PO||As Needed||||Prior to enrollment|Lactose intolerance||On treatment at time of enrollment|||||1||||||||||Lactaid||||
+4|93|4|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Irritable bowel syndrome||On treatment at time of enrollment|||||1||||||||||Bentyl||||
+5|5|3|20|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+6|5|3|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Sertraline Hydrochloride||||
+7|156|1|||1|Topical - skin||Fixed Regimen|2|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Triamcinolone||||
+8|156|1|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||HydroDIURIL||||
+9|156|1|2|puff||Oral Inhalation||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Albuterol||||
+10|190|9|30|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||duloxetine||||
+11|190|9|||1|PO||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Mirapex||||
+12|190|9|1|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+13|190|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|LDL cholesterol increased||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+14|190|9|25|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||Thyroxine||||
+15|33|1|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Lipitor||||
+16|215|1|112|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||Synthroid||||
+17|160|1|1|gtt-drops||Gtt|Both|Fixed Regimen|2|Day||Prior to enrollment|Dry eye||On treatment at time of enrollment|||||1||||||||||Cycloserine||||
+18|160|1|1|tablet||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Apri||||
+19|191|1|5|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+20|57|1|2.5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+21|57|1|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Bipolar disorder||On treatment at time of enrollment|||||1||||||||||Zoloft||||
+22|70|1|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Amlodipine||||
+23|70|1|80|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Lipitor||||
+24|70|1|2|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Guanfacine||||
+25|70|1|10|mg||PO||Fixed Regimen|3|Day||Prior to enrollment|Chronic kidney disease||On treatment at time of enrollment|||||1||||||||||Demadex||||
+26|138|9|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Paxil||||
+27|165|1|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+28|165|1|20|mg||PO||As Needed||||Prior to enrollment|Erectile dysfunction||On treatment at time of enrollment|||||1||||||||||sildenafil||||
+29|165|1|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lovastatin||||
+30|171|1|20|mg||PO||As Needed||||Prior to enrollment|Erectile dysfunction||On treatment at time of enrollment|||||1||||||||||Cialis||||
+31|171|1|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan||||
+32|171|1|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Norvasc||||
+33|27|3|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Hydrochlorothiazide||||
+34|211|3|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertriglyceridemia||On treatment at time of enrollment|||||1||||||||||Hydrochlorothiazide||||
+35|211|3|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan Potassium||||
+36|211|3|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+37|211|3|30|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||lansoprazole||||
+38|152|5|500|mg||PO||As Needed||||Prior to enrollment|Headache||On treatment at time of enrollment|||||1||||||||||Acetaminophen||||
+39|152|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+40|152|5|500/200|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Osteopenia||On treatment at time of enrollment|||||1||||||||||Calcium Carbonate / Vitamin D||||
+41|152|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+42|152|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+43|152|5|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Olmesartan medoxomil||||
+44|195|9|500|mg||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ascorbic Acid||||
+45|195|9|500|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||OsCal 500||||
+46|195|9|50|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Idiopathic thrombocytopenic purpura||On treatment at time of enrollment|||||1||||||||||Cyanocobalamin Co57||||
+47|195|9|324|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Idiopathic thrombocytopenic purpura||On treatment at time of enrollment|||||1||||||||||Fergon||||
+48|195|9|125|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||Levothyroxine Sodium||||
+49|195|9|1,000|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Metformin||||
+50|195|9|||1|PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+51|195|9|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Dyslipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+52|86|5|0.25-35|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Sprintec||||
+53|86|5|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+54|75|5|1-20|mcg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ethinyl Estradiol / Ferrous fumarate / Norethindrone||||
+55|184|9|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Amlodipine||||
+56|184|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+57|184|9|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Atenolol||||
+58|184|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+59|184|9|1|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Biotin||||
+60|184|9|0.1%|gtt-drops||Gtt|Right|Fixed Regimen|2|Day||Prior to enrollment|Blindness||On treatment at time of enrollment|||||1||||||||||brimonidine||||
+61|184|9|1%|gtt-drops||Gtt|Right|Fixed Regimen|2|Day||Prior to enrollment|Blindness||On treatment at time of enrollment|||||1||||||||||brinzolamide||||
+62|184|9|8|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Coronary artery disease||On treatment at time of enrollment|||||1||||||||||Doxazosin||||
+63|184|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+64|184|9|||1|PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+65|184|9|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Omega-3 Fatty Acids||||
+66|184|9|1%|gtt-drops||Gtt|Right|Fixed Regimen|2|Day||Prior to enrollment|Blindness||On treatment at time of enrollment|||||1||||||||||Pred Forte||||
+67|184|9|20|mg||PO||Fixed Regimen|4|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||torsemide||||
+68|95|3|75|mg||PO||As Needed||||Prior to enrollment|||On treatment at time of enrollment||||||||||1|||1||Diclofenac||||
+69|63|9|30|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||aripiprazole||||
+70|63|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|LDL cholesterol increased||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+71|63|9|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Cozaar||||
+72|63|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Anxiety||On treatment at time of enrollment|||||1||||||||||Citalopram||||
+73|63|9|5|mg||PO||Fixed Regimen|5|Day||Prior to enrollment|Schizoaffective disorder||On treatment at time of enrollment|||||1||||||||||Haldol||||
+74|63|9|0.5|mg||PO||As Needed||||Prior to enrollment|Anxiety||On treatment at time of enrollment|||||1||||||||||Klonopin||||
+75|63|9|20|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Zyprexa||||
+76|63|9|30|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Buspar||||
+77|63|9|||1|PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+78|63|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Gastroesophageal reflux||On treatment at time of enrollment|||||1||||||||||Protonix||||
+79|159|9|175|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||Synthroid||||
+80|159|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Lipitor||||
+81|159|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Low Dose ASA||||
+82|163|5|500|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Calcium Carbonate||||
+83|163|5|1000|units||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+84|163|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+85|106|5|0.25|mg||PO||As Needed||||Prior to enrollment|Difficulty sleeping||On treatment at time of enrollment|||||1||||||||||Alprazolam||||
+86|106|5|0.0375|mg||Transdermal||Fixed Regimen|1|Day||Prior to enrollment|Ovarian cancer||On treatment at time of enrollment|||||1||||||||||Estradiol||||
+87|106|5|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan||||
+88|106|5|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Dyslipidemia||On treatment at time of enrollment|||||1||||||||||Pravachol||||
+89|17|5|||1|PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+90|22|7|1000|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Omega-3 Fatty Acids||||
+91|22|7|1000|IU||PO||Fixed Regimen|2|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol / Vitamin E||||
+92|105|5|2.5mg/ml|puff||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Albuterol||||
+93|105|5|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Amlodipine||||
+94|105|5|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Atenolol||||
+95|105|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+96|105|5|1000|IU||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+97|105|5|75|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Peripheral vascular disease||On treatment at time of enrollment|||||1||||||||||clopidogrel||||
+98|105|5|625|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Welchol||||
+99|105|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+100|105|5|10|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Fosinopril||||
+101|105|5|12%|cream||Topical - skin||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||ammonium lactate||||
+102|105|5|100|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||coenzyme Q10||||
+103|105|5|||1|PO||As Needed||||Prevention|||On treatment at time of enrollment|||||1||||||||||Docusate Sodium||||
+104|105|5|unknown|aerosol||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||flunisolide||||
+105|105|5|100-50|aerosol||Oral Inhalation||Fixed Regimen|1|Day||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||fluticasone||||
+106|105|5|0.4|mg||Sublingual||As Needed||||Prior to enrollment|Angina pectoris||On treatment at time of enrollment|||||1||||||||||Nitroglycerin||||
+107|105|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Omega-3 Fatty Acids||||
+108|105|5|1%|cream||Topical - skin||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Pimecrolimus||||
+109|45|8|||1|IM||As Needed||||Prior to enrollment|Type I diabetes mellitus||On treatment at time of enrollment|||||1||||||||||NovoLog||||
+110|179|8|||1|IM||As Needed||||Prior to enrollment|Type I diabetes mellitus||On treatment at time of enrollment|||||1||||||||||Humalog||||
+111|161|8|||1|IM||As Needed||||Prior to enrollment|Type I diabetes mellitus||On treatment at time of enrollment|||||1||||||||||NovoLog||||
+112|161|8|19|units||IM||Fixed Regimen|1|Day||Prior to enrollment|Type I diabetes mellitus||On treatment at time of enrollment|||||1||||||||||Lantus||||
+113|43|7|15|mg||PO||As Needed||||Prior to enrollment|Attention deficit/hyperactivity disorder||On treatment at time of enrollment|||||1||||||||||Focalin XR||||
+114|153|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+115|153|5|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Calcium Carbonate / Vitamin D||||
+116|153|5|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+117|172|3|50000|units||PO|Both|Fixed Regimen|1|Week||Prevention|||On treatment at time of enrollment|||||1||||||||||Ergocalciferol||||
+118|143|5|500|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cinnamon Preparation||||
+119|143|5|||1|PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Levocarnitine||||
+120|143|5|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Dyslipidemia||On treatment at time of enrollment|||||1||||||||||rosuvastatin||||
+121|143|5|50000|units||PO||Fixed Regimen|||1|Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+122|143|5|160|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||valsartan||||
+123|3|7|220|mcg||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Asmanex||||
+124|3|7|2|tablet||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol / Vitamin E||||
+125|118|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+126|118|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+127|118|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Chondroitin Sulfates / Glucosamine||||
+128|118|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Fish Oils||||
+129|118|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+130|118|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+131|88|8|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Attention deficit disorder||On treatment at time of enrollment|||||1||||||||||Focalin||||
+132|88|8|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Attention deficit disorder||On treatment at time of enrollment|||||1||||||||||Adderall||||
+133|88|8|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Elavil||||
+134|88|8|75|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Zoloft||||
+135|88|8|10|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Zyrtec||||
+136|88|8|1000|IU||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||vitamin D3||||
+137|75|5|500|mg||PO||Fixed Regimen|3|Day||New||Sinus infection|Treatment started after enrollment|26||32||||||||||||Amoxicillin||||
+138|203|7|||1|PO||As Needed||||Prevention|||On treatment at time of enrollment|||||1||||||||||ProAir HFA||||
+139|81|7|2000|IU||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+140|141|7|2|puff||Nasal||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Nasonex||||
+141|141|7|2|gtt-drops||Gtt||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Pataday||||
+142|141|7|1|puff||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Levalbuterol||||
+143|141|7|||1|Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Budesonide||||
+144|141|7|1|pills||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Zyrtec||||
+145|141|7|62.5|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||levothyroxine||||
+146|141|7|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Singulair||||
+147|154|7|2000|IU||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+148|162|10|||1|SC||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Epipen||||
+149|94|5|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+150|94|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Vitamin B 12||||
+151|53|5|1|tablet||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+152|111|3|20|mg||Oral Inhalation||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+153|218|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Low Dose ASA||||
+154|30|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+155|30|5|75|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||levothyroxine||||
+156|30|5|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+157|30|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+158|30|5|100|mg||PO||Fixed Regimen|||1|Prior to enrollment|Erectile dysfunction||On treatment at time of enrollment|||||1||||||||||sildenafil||||
+159|30|5|2000|units||PO||Fixed Regimen|||1|Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+160|48|3|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||ezetimibe||||
+161|48|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+162|55|7|7.5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Microalbuminuria||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+163|55|7|1200|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Calcium||||
+164|55|7|2000|units||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+165|25|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+166|25|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+167|25|5|1|tablet||PO||Fixed Regimen|2|Day||Prior to enrollment|Osteoporosis||On treatment at time of enrollment|||||1||||||||||OsCal 500||||
+168|25|5|1000|mg||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Fish Oils||||
+169|25|5|1|puff||Oral Inhalation||As Needed||||Prior to enrollment|Bronchitis||On treatment at time of enrollment|||||1||||||||||Advair||||
+170|25|5|200|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Bronchitis||On treatment at time of enrollment|||||1||||||||||Theophylline||||
+171|25|5|1|tablet||PO||Fixed Regimen|2|Day||Prior to enrollment|Spinal osteoarthritis||On treatment at time of enrollment|||||1||||||||||Chondroitin Sulfates / Glucosamine||||
+172|25|5|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Hydrochlorothiazide||||
+173|25|5|20|meq||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Potassium||||
+174|25|5|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan||||
+175|44|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+176|44|9|300|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||gabapentin||||
+177|25|5|1000|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Glucophage||||
+178|25|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+179|44|9|200|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||levothyroxine||||
+180|44|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Microalbuminuria||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+181|44|9|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan||||
+182|25|5|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||NEBIVOLOL HCL||||
+183|44|9|200|mg||PO||As Needed||||Prior to enrollment|Prostatic hyperplasia||On treatment at time of enrollment|||||1||||||||||Pyridium||||
+184|44|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+185|44|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||torsemide||||
+186|123|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+187|123|5|12.5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Captopril||||
+188|123|5|50000|units||PO||Fixed Regimen|1|Week||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Ergocalciferol||||
+189|123|5|75|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||Synthroid||||
+190|123|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+191|176|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Pravastatin||||
+192|10|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+193|10|3|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Sinusitis||On treatment at time of enrollment|||||1||||||||||Singulair||||
+194|10|3|180|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Sinusitis||On treatment at time of enrollment|||||1||||||||||Allegra||||
+195|10|3|2|puff||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Albuterol Sulfate||||
+196|10|3|1|puff||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Advair Diskus 500/50||||
+197|10|3|55|mcg||Nasal||Fixed Regimen|1|Day||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Nasacort||||
+198|21|3|50|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hashimoto's disease||On treatment at time of enrollment|||||1||||||||||Levothyroxine Sodium||||
+199|200|3|35|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Citalopram hydrobromide||||
+200|200|3|224|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||levothyroxine||||
+201|181|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Low Dose ASA||||
+202|181|9|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Wellbutrin||||
+203|181|9|600|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Lopid||||
+204|181|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+205|181|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Zocor||||
+206|181|9|20|mg||PO||Fixed Regimen|||1|Prior to enrollment|Erectile dysfunction||On treatment at time of enrollment|||||1||||||||||Cialis||||
+207|56|7|1000|IU||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Caltrate 600 Plus D||||
+208|2|9|500|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ascorbic Acid||||
+209|2|9|15|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Joint pain||On treatment at time of enrollment|||||1||||||||||Buspar||||
+210|2|9|2,000|units||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+211|2|9|500|mcg||PO||Fixed Regimen|1|Week||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Vitamin B 12||||
+212|2|9|30|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Joint pain||On treatment at time of enrollment|||||1||||||||||Cymbalta||||
+213|2|9|10|mg||PO||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Claritin||||
+214|2|9|0.5|mg||PO||As Needed||||Prior to enrollment|Anxiety||On treatment at time of enrollment|||||1||||||||||Ativan||||
+215|2|9|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Microalbuminuria||On treatment at time of enrollment|||||1||||||||||Cozaar||||
+216|2|9|17|g||Nasal||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Nasonex||||
+217|2|9|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+218|2|9|75|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Peripheral neuropathy NOS||On treatment at time of enrollment|||||1||||||||||Pamelor||||
+219|2|9|20|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Prilosec||||
+220|2|9|75|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Joint pain||On treatment at time of enrollment|||||1||||||||||Lyrica||||
+224|133|8|2000|IU||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+225|133|8|150|mg||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ranitidine||||
+226|133|8|160/4.5|aerosol||Oral Inhalation||As Needed||||Prevention|||On treatment at time of enrollment|||||1||||||||||Symbicort||||
+227|133|8|||1|Topical - skin||As Needed||||Prevention|||On treatment at time of enrollment|||||1||||||||||Isopropyl Alcohol||||
+228|225|3|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+229|225|3|80|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment||||||||||1|||||valsartan||||
+230|174|3|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment||||||||||1|||||Simvastatin||||
+231|174|3|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Microalbuminuria||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+232|101|7|||1|Oral Inhalation||As Needed||||Prior to enrollment|Seasonal allergy||On treatment at time of enrollment|||||1||||||||||Albuterol||||
+233|101|7|||1|PO||Fixed Regimen|2|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment||||||||||1|||||Calcium Carbonate / Vitamin D||||
+234|153|5|250|tablet||PO||Fixed Regimen|2|Day||New|Pneumonia||Treatment started after enrollment|30||39||||||||||||Augmentin||||
+235|153|5|||1|PO||Fixed Regimen|1|Day||New|Pneumonia||Treatment started after enrollment|30||34||||||||||||ZPAK||||
+236|153|5|||1|Oral Inhalation||Fixed Regimen|4|Day||New|Pneumonia||Treatment started after enrollment|30||39||||||||||||Ventolin||||
+237|153|5|10|mg||PO||Fixed Regimen|2|Day||New|Pneumonia||Treatment started after enrollment|34||38||||||||||||Prednisone||||
+238|210|3|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment||||||||||1|||||Bupropion Hydrochloride||||
+239|210|3|5|mg||PO||As Needed||||Prior to enrollment|Depression||On treatment at time of enrollment||||||||||1|||||Zolpidem tartrate||||
+240|210|3|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment||||||||||1|||||Aspirin||||
+241|120|8|2 puffs|aerosol||Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Airet||||
+242|120|8|2000|IU||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+243|120|8|150|mg||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ranitidine||||
+244|51|9|500|mg||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ascorbic Acid||||
+245|51|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+246|51|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+247|51|9|600|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Osteopenia||On treatment at time of enrollment|||||1||||||||||Calcium Carbonate||||
+248|51|9|1200|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Fish Oils||||
+249|51|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+250|51|9|0,5%|gtt-drops||Gtt|Both|Fixed Regimen|1|Day||Prior to enrollment|Glaucoma||On treatment at time of enrollment|||||1||||||||||Timoptic||||
+251|51|9|1000|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Osteopenia||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+252|85|9|20|mg||PO||Fixed Regimen|1|Week||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+253|85|9|180|mg||PO||As Needed||||Prior to enrollment|Allergic rhinitis||On treatment at time of enrollment|||||1||||||||||fexofenadine||||
+254|214|6|20 mg|capsules||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Prozac||||
+255|140|4|||1|PO||Fixed Regimen|1|Day||New|||On treatment at time of enrollment|||||1||||||||1||Concerta||||
+256|60|4|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Attention deficit/hyperactivity disorder||On treatment at time of enrollment|||||1||||||||||Concerta||||
+257|166|3|2|puff||PO||As Needed||||Prior to enrollment|Sleep apnea||On treatment at time of enrollment|||||1||||||||||Albuterol Sulfate||||
+258|166|3|20.25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypogonadism||On treatment at time of enrollment|||||1||||||||||Androgel||||
+259|166|3|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Pedal edema||On treatment at time of enrollment|||||1||||||||||Hydrochlorothiazide||||
+260|166|3|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+261|129|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Simvastatin / sitagliptin||||
+262|129|3|1|gtt-drops||Gtt|Left|Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Restasis||||
+263|222|9|5000|units||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||vitamin D3||||
+264|222|9|1000|mcg||SC||Fixed Regimen|1|Month||Prior to enrollment|Vitamin B12 deficiency||On treatment at time of enrollment|||||1||||||||||Vitamin B 12||||
+265|222|9|20|mg||PO||As Needed||||Prior to enrollment|Anxiety||On treatment at time of enrollment|||||1||||||||||Inderal||||
+266|98|4|125|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypothyroidism||On treatment at time of enrollment|||||1||||||||||Synthroid||||
+267|73|9|100|mg||IM||Fixed Regimen|1|Year||Prior to enrollment|Breast cancer||On treatment at time of enrollment|||||1||||||||||Reclast||||
+268|73|9|1|tablet||PO||Fixed Regimen|1|Day||Prior to enrollment|Osteopenia||On treatment at time of enrollment|||||1||||||||||Os-Cal 500 with D||||
+269|73|9|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+270|73|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Low Dose ASA||||
+271|73|9|180|mcg||Oral Inhalation||Fixed Regimen|4|Day||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Budesonide||||
+272|73|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Singulair||||
+273|73|9|50|mcg||Oral Inhalation||Fixed Regimen|2|Day||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||salmeterol||||
+274|73|9|80|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+275|73|9|1000|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Osteopenia||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+276|25|5|800/600|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Sinus infection||Treatment started after enrollment|44||||1||||||||||Bactrim||||
+277|25|5|2%|Ointment||Topical - skin||Fixed Regimen|2|Day||New|Sinus infection||Treatment started after enrollment|44||48||||||||||||Mupirocin||||
+278|25|5|150|mg||PO||One Time Treatment||||New|Sinus infection||Treatment started after enrollment|37||37||||||||||||Fluconazole||||
+279|133|8|650|mg||PO||As Needed||||New||Hypoglycemia|Treatment started after enrollment|27||32||||||||||||Tylenol||||
+280|133|8|10|mg||PR||Fixed Regimen|1|Day||New||Hypoglycemia|Treatment started after enrollment|27||32||||||||||||Bisacodyl||||
+281|133|8|5|mg||PO||Fixed Regimen|3|Day||New||Hypoglycemia|Treatment started after enrollment|27||32||||||||||||Flexeril||||
+282|133|8|30|mL||PO||Fixed Regimen|4|Day||New||Hypoglycemia|Treatment started after enrollment|27||32||||||||||||Maalox Plus||||
+283|133|8|8|mg||IV||Fixed Regimen|3|Day||New||Hypoglycemia|Treatment started after enrollment|27||32||||||||||||Zofran||||
+284|20|7|2000|units||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+285|9|5|50000|units||PO||Fixed Regimen|1|Week||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Ergocalciferol||||
+286|9|5|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+287|9|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Furosemide||||
+288|9|5|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||carvedilol||||
+289|9|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+290|158|7|2000|units||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+291|37|3|1000|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||vitamin D3||||
+292|34|9|300|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Wellbutrin XL||||
+293|34|9|1%|cream||Topical - skin||Fixed Regimen|1|Day||Prior to enrollment|Skin lesion||On treatment at time of enrollment|||||1||||||||||Cleocin-T||||
+294|34|9|20|mg||PO||Fixed Regimen|3|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Fluoxetine||||
+295|34|9|0.25%|cream||Topical - skin||Fixed Regimen|1|Day||Prior to enrollment|Acne||On treatment at time of enrollment|||||1||||||||||Retin-A||||
+296|12|7|1000|units||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+297|52|8|||1|PO||Fixed Regimen|2|Day||Prior to enrollment|Seizures||On treatment at time of enrollment|||||1||||||||||Keppra||||
+298|52|8|250|mg||PO||Fixed Regimen|||1|Prior to enrollment|Gastritis||On treatment at time of enrollment|||||1||||||||||Erythromicin||||
+299|52|8|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Citalopram||||
+300|223|8|1000|IU||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+301|223|8|1000|mg||PO||Fixed Regimen|2|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Metformin||||
+302|199|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Amlodipine||||
+303|199|5|||1|Topical - skin||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||ammonium lactate||||
+304|199|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment||||||||-2|0||||||Aspirin||||
+305|199|5|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Dyslipidemia||On treatment at time of enrollment||||||||-32|-3||||||atorvastatin||||
+306|199|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+307|199|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Hydrochlorothiazide||||
+308|199|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+309|199|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Seizures||On treatment at time of enrollment|||||1||||||||||Phenobarbital||||
+310|76|3|10|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Enalapril Maleate||||
+311|76|3|500|mg||PO||As Needed||||Prevention|||On treatment at time of enrollment|||||1||||||||||fenugreek leaf extract||||
+312|76|3|324|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||ferrous sulfate||||
+313|117|8|.5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Anxiety||On treatment at time of enrollment|||||1||||||||||Clonazepam||||
+314|124|3|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+315|124|3|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+316|124|3|1000|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+317|130|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Low Dose ASA||||
+318|130|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Lipitor||||
+319|130|9|10-325|mg||PO||As Needed||||Prior to enrollment|Degenerative disc disease||On treatment at time of enrollment|||||1||||||||||Norco||Chronic pain||
+320|130|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Diabetic nephropathy||On treatment at time of enrollment|||||1||||||||||Lisinopril||Hypertension||
+321|130|9|550|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Chronic pain||On treatment at time of enrollment|||||1||||||||||Anaprox||Degenerative disc disease||
+322|130|9|0.25|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||Ropinirole hydrochloride||||
+323|40|8|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Omega-3 Fatty Acids||||
+324|40|8|||1|PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Vitamin B Complex||||
+325|11|5|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Amlodipine||||
+326|11|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+327|11|5|300|mg||PO||Fixed Regimen|||1|Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||Neurontin||||
+328|11|5|||1|Topical - skin||As Needed||||Prior to enrollment|Back pain||On treatment at time of enrollment|||||1||||||||||Lidocaine||||
+329|28|7|1|pills||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Ethinyl Estradiol / Norethindrone||||
+330|28|7|2|tablet||PO||Fixed Regimen|2|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Aleve||||
+331|11|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+332|11|5|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Metoprolol||||
+333|11|5|0.4|mg||Sublingual||As Needed||||Prior to enrollment|Coronary artery disease||On treatment at time of enrollment|||||1||||||||||Nitrostat||||
+334|11|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+335|11|5|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Back pain||On treatment at time of enrollment|||||1||||||||||Tramadol||||
+336|77|7|2|mg||SC||Fixed Regimen|1|Day||Prior to enrollment|Growth hormone deficiency||On treatment at time of enrollment|||||1||||||||||Humatrope||||
+337|203|7|2000|IU||PO||Fixed Regimen|1|Day||New|Vitamin D deficiency||Treatment started after enrollment|||||1|2|0||||||||Vitamin D||||
+338|25|5|2|tablet||PO||Fixed Regimen|2|Day||New||MRSA|Treatment started after enrollment|73||||1||||||||||Sulfamethoxazole||||
+339|25|5|300|mg||PO||Fixed Regimen|4|Day||New||MRSA|Treatment started after enrollment|80||||1||||||||||Clindamycin||||
+340|16|6|72|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Concerta||||
+341|16|6|20|Ointment||PO||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Adderall-XR||||
+342|187|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+343|187|9|100|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Bupropion Hydrochloride||||
+344|187|9|600|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Calcium 600||||
+345|187|9|300|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||gabapentin||||
+346|187|9|500|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Degenerative joint disease||On treatment at time of enrollment|||||1||||||||||Magnesium||||
+347|187|9|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Dyslipidemia||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+348|187|9|50|mg||PO||As Needed||||Prior to enrollment|Degenerative joint disease||On treatment at time of enrollment|||||1||||||||||Tramadol||||
+349|29|8|1000|IU||PO||Fixed Regimen|1|Day||Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Vitamin D||||
+350|177|4|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Attention deficit/hyperactivity disorder||On treatment at time of enrollment|||||1||||||||||Vyvanse||||
+351|177|4|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Oppositional defiant disorder||On treatment at time of enrollment|||||1||||||||||Abilify||||
+352|198|3|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Enalapril||||
+353|198|3|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+354|198|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Dyslipidemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+355|198|3|1|gtt-drops||Gtt|Both|Fixed Regimen|2|Day||Prior to enrollment|Glaucoma||On treatment at time of enrollment|||||1||||||||||brinzolamide||||
+356|121|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+357|121|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+358|121|9|3|mg||PO||As Needed||||Prevention|||On treatment at time of enrollment|||||1||||||||||Melatonin||||
+360|36|3|100|mg||PO||Fixed Regimen|2|Day||Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||gabapentin||||
+361|36|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+362|36|3|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan Potassium||||
+363|36|3|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Hydrochlorothiazide||||
+364|36|3|2000|IU||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||vitamin D3||||
+365|96|3|10|mg||PO||Fixed Regimen|3|Day||Prior to enrollment|Depression||On treatment at time of enrollment||||||||||1|||||Fluoxetine||||
+366|96|3|50|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Losartan Potassium||||
+367|96|3|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+368|96|3|1|gtt-drops||Gtt|Right|Fixed Regimen|3|Day||Prior to enrollment|Glaucoma||On treatment at time of enrollment|||||1||||||||||prednisolone acetate||||
+369|96|3|300|mg||PO||Fixed Regimen|3|Day||Prior to enrollment|Neuropathy||On treatment at time of enrollment|||||1||||||||||gabapentin||||
+370|173|8|||1|SC||As Needed||||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Humalog||||
+371|173|8|1000|units||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+372|158|7|||1|PO||One Time Treatment||||New||Diabetic ketoacidosis|Treatment started after enrollment|70||70||||||||||||Zofran||||
+373|158|7|||1|PO||One Time Treatment||||New||Diabetic ketoacidosis|Treatment started after enrollment|70||70||||||||||||Toradol||||
+374|155|5|||1|PO||Fixed Regimen|||1|New|||Treatment started after enrollment||||||||||1||1|1||Guaifenesin||||
+375|155|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Parkinson's disease||On treatment at time of enrollment|||||1||||||||||Carbidopa / Levodopa||||
+376|155|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Lipitor||||
+377|155|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+378|155|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Prilosec||||
+379|155|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+380|155|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Acid reflux (oesophageal)||On treatment at time of enrollment|||||1||||||||||Omeprazole||||
+381|155|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Metoprolol||||
+382|155|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Fish Oils||||
+383|155|5|||1|PO||Fixed Regimen|||1|Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+384|155|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Ramipril||||
+385|220|7|2|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+386|212|5|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+387|212|5|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|Osteopenia||On treatment at time of enrollment|||||1||||||||||Calcium Citrate||||
+388|212|5|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+389|219|8|1000|IU||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+390|8|6|||1|PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Claritin||||
+391|8|6|||1|Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Albuterol||||
+392|126|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||Atorvastatin calcium||||
+393|126|3|100-25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Hydrochlorothiazide / Losartan||||
+394|126|3|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Gastritis||On treatment at time of enrollment|||||1||||||||||Omeprazole||||
+395|126|3|5|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Amlodipine||||
+396|126|3|600|mg||PO||Fixed Regimen|3|Day||Prior to enrollment|Neuropathy||On treatment at time of enrollment|||||1||||||||||gabapentin||||
+397|41|9|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hyperlipidemia||On treatment at time of enrollment|||||1||||||||||atorvastatin||||
+398|41|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+399|54|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+400|54|5|300|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||Bupropion||||
+401|54|5|||1|PO||Fixed Regimen|||1|Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||Celebrex||||
+402|54|5|1000|units||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+403|54|5|60|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Depression||On treatment at time of enrollment|||||1||||||||||duloxetine||||
+404|54|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||pantoprazole||||
+405|54|5|50|mg||PO||Fixed Regimen|3|Day||Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||pregabalin||||
+406|54|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||||Simvastatin||||
+407|54|5|0.4|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||1||tamsulosin||||
+408|54|5|175|mcg||PO||Fixed Regimen|1|Day||Prior to enrollment|||On treatment at time of enrollment|||||1||||||||||Levothyroxine Sodium||||
+409|226|9|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Low Dose ASA||||
+410|226|9|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Multivitamin preparation||||
+411|226|9|1|tablet||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Viactiv Calcium Soft Chews||||
+412|116|9|10|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypertension||On treatment at time of enrollment|||||1||||||||||Lisinopril||||
+413|80|8|2000|IU||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Cholecalciferol||||
+414|122|6|||1|Oral Inhalation||As Needed||||Prior to enrollment|Asthma||On treatment at time of enrollment|||||1||||||||||Albuterol||||
+415|194|5|81|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Aspirin||||
+416|194|5|40|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Hypercholesterolemia||On treatment at time of enrollment|||||1||||||||||Lipitor||||
+417|194|5|75|mg||PO||Fixed Regimen|1|Day||Prevention|||On treatment at time of enrollment|||||1||||||||||Plavix||||
+418|194|5|50000|units||PO||Fixed Regimen|||1|Prior to enrollment|Vitamin D deficiency||On treatment at time of enrollment|||||1||||||||||Ergocalciferol||||
+419|194|5|300|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||gabapentin||||
+420|194|5|20|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Gastroesophageal reflux||On treatment at time of enrollment|||||1||||||||||Omeprazole||||
+421|194|5|25|mg||PO||Fixed Regimen|1|Day||Prior to enrollment|Diabetic peripheral neuropathy||On treatment at time of enrollment|||||1||||||||||Topamax||||
+422|167|7|1|pills||PO||As Needed||||Prior to enrollment|Seasonal allergy||On treatment at time of enrollment|||||1||||||||||Benadryl||||

@@ -1,0 +1,28 @@
+RecID|PtID|SiteID|FFinStatReas|PtWithdrawReas|DeathDaysFromEnroll
+2|147|8|Subject requests to withdraw (not in writing)|Poor outcome|
+3|95|3|Participant not eligible||
+4|225|3|Participant not eligible||
+5|227|10|Participant not eligible||
+6|119|7|Participant not eligible||
+7|2|9|Participant not eligible||
+8|161|8|Subject requests to withdraw (not in writing)|Adverse event|
+9|90|6|Subject requests to withdraw (not in writing)|Does not want study treatment|
+10|81|7|Lost to follow up||
+11|201|1|Participant not eligible||
+12|136|2|Subject formally withdrew consent in writing|Does not want study treatment|
+13|113|10|Subject requests to withdraw (not in writing)|Travel difficulty|
+14|115|10|Subject requests to withdraw (not in writing)|Travel difficulty|
+15|148|10|Subject requests to withdraw (not in writing)|Unknown|
+16|42|10|Site withdraws participant||
+17|170|8|Subject requests to withdraw (not in writing)|Does not want study treatment|
+18|77|7|Subject requests to withdraw (not in writing)|Travel difficulty|
+19|117|8|Participant not eligible||
+20|223|8|Site withdraws participant||
+21|64|7|Subject requests to withdraw (not in writing)|Does not want study treatment|
+22|109|3|Participant not eligible||
+23|218|9|Lost to follow up||
+24|145|10|Site withdraws participant||
+25|182|1|Participant not eligible||
+26|224|1|Subject requests to withdraw (not in writing)|Adverse event|
+27|41|9|Site withdraws participant||
+28|204|1|Site withdraws participant||

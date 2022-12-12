@@ -1,0 +1,231 @@
+RecID|PtID|SiteID|EligChecklist|Gender|CurrSmoker|DomHand|EduLevel|EduLevelUnk|AnnualInc|AnnualIncDNA|AnnualIncUnk|DiagT1DAge|TestDaysFromEnroll|Method|HbA1c|PriorTestDaysFromEnroll|PriorMethod|PriorHbA1c|UsePersCGM|PersCGMManuf|InsDelPump|ConfStudyBGMCellPhMatch|ConfStudyBGMSyncPump|ConfPtRemNoAdjTime|NoExam|Weight|WeightUnits|WeightNotDone|Height|HeightUnits|HeightNotDone|BldPrSys|BldPrDia|BldPrNotDone|TannerNotDone|TannerPubicH|TannerBreGen|UrinePregTestResult|SensorPlaced|SensorLoc
+1|164|4|1|F|No|Right Hand|1st, 2nd, 3rd, or 4th grade||||1|2|-49|Afinion|9.4|-299|Other POC|7.2|No||No|1||1||36.4|kg||149.0|cm||110|74|||2|2|N/A|Yes|Left Arm
+2|114|4|1|M|No|Right Hand|7th or 8th Grade||Less than $25,000|||10|-49|Afinion|10.1|-140|Afinion|9.2|No||No|1||1||67.2|kg||166.7|cm||118|70|||4|4|N/A|Yes|Left Arm
+3|49|4|1|M|No|Right Hand|10th Grade||$75,000 - less than $100,000|||13|-44|Afinion|9.1|-85|Afinion|10.0|No||Yes|1|1|1||66.5|kg||179.2|cm||115|64|||4|4|N/A|Yes|Left Arm
+4|93|4|1|F|No|Right Hand|11th Grade||$25,000 - $35,000|||2|-23|Afinion|8.9|-205|Afinion|8.6|No||Yes|1|1|1||74.0|kg||160.8|cm||112|66|||5|5|Negative|Yes|Left Arm
+5|200|3|1|F|No|Right Hand|Bachelor's Degree||||1|14|-61|Lab|8.3|-130|Lab|8.4|No||Yes|1|1|1||186.0|lbs||67.5|in||122|78|||||Negative|Yes|Right Arm
+6|174|3|1|F|No|Right Hand|High school graduate/diploma/GED||$25,000 - $35,000|||8|-56|Lab|7.5|-259|Lab|7.7|No||Yes|1|1|1||208.0|lbs||61.5|in||130|88|||||N/A|Yes|Right Arm
+7|228|3|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||10|-6|Lab|7.0|-323|Lab|6.6|No||Yes|1|1|1||153.0|lbs||68.0|in||96|68|||||N/A|Yes|Right Arm
+8|92|3|1|M|No|Right Hand|Some college but no degree||||1|34|0|Other POC|9.6|-149|Lab|8.6|No||Yes|1|1|1||193.5|lbs||72.0|in||143|80|||||N/A|Yes|Right Arm
+9|5|3|1|F|No|Right Hand|Some college but no degree||Less than $25,000|||47|-2|Lab|6.5|-122|Lab|6.2|No||No|1||1||169.5|lbs||61.5|in||134|86|||||N/A|Yes|Right Arm
+10|156|1|1|F|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||22|-26|Lab|6.8|-61|DCA|7.7|Yes|Dexcom|Yes|1|1|1||188.0|lbs||162.0|in||120|64|||||N/A|Yes|Left Arm
+11|190|9|1|F|No|Right Hand|Bachelor's Degree||$50,000 - less than $75,000|||12|-49|DCA|7.6|-147|DCA|7.8|No||Yes|1|1|1||133.0|lbs||61.0|in||129|57|||||N/A|Yes|Left Arm
+12|33|1|1|F|No|Right Hand|Bachelor's Degree||$200,000 or more|||22|0|DCA|7.6|-98|DCA|7.2|No||Yes|1|1|1||167.0|lbs||64.0|in||90|53|||||N/A|Yes|Left Arm
+13|215|1|1|F|No|Right Hand|Bachelor's Degree|||1||11|-64|DCA|6.0|-175|DCA|6.3|Yes|Dexcom|Yes|1|1|1||123.2|lbs||61.0|in||103|69|||||Negative|Yes|Left Arm
+14|160|1|1|F|No|Right Hand|Bachelor's Degree||$100,000 - less than $200,000|||6|0|DCA|7.2|-117|DCA|7.1|No||No|1||1||145.0|lbs||65.0|in||||1||||N/A|Yes|Left Arm
+15|157|1|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||27|-33|DCA|8.0|-97|DCA|7.1|No||No|1||1||185.0|lbs||65.0|in||109|64|||||N/A|Yes|Left Arm
+16|191|1|1|F|No|Right Hand|Master's Degree||$100,000 - less than $200,000|||6|0|DCA|8.5|-95|DCA|8.1|Yes|Dexcom|Yes|1|1|1||137.0|lbs||61.0|in||108|74|||||N/A|Yes|Left Arm
+17|65|3|1|F|No|Right Hand|Some college but no degree||$75,000 - less than $100,000|||8|0|Other POC|6.5|-234|Lab|7.4|No||Yes|1|1|1||117.8|lbs||64.5|in||116|72|||||N/A|Yes|Left Arm
+18|97|3|1|F|No|Right Hand|Master's Degree||$200,000 or more|||29|0|Other POC|7.4|-233|Lab|7.3|No||No|1||1||133.0|lbs||65.0|in||118|68|||||N/A|Yes|Left Arm
+19|108|4|1|M|No|Right Hand|10th Grade||$75,000 - less than $100,000|||7|-14|Lab|12.0|-69|Lab|11.6|No||Yes|1|1|1||61.3|kg||175.5|cm||129|85||1|||N/A|Yes|Left Arm
+20|217|1|1|F|No|Right Hand|Bachelor's Degree||Less than $25,000|||11|-88|DCA|9.3|-419|DCA|9.6|No||No|1||1||155.0|lbs||63.0|in||126|71|||||Negative|Yes|Left Arm
+21|50|4|1|F|No|Right Hand|9th Grade||$200,000 or more|||7|0|Afinion|10.6|-140|Afinion|9.7|No||Yes|1|1|1||47.7|kg||167.2|cm||122|74|||3|3|Negative|Yes|Left Arm
+22|57|1|1|F|Yes|Right Hand|High school graduate/diploma/GED||Less than $25,000|||22|-84|DCA|6.3|-231|DCA|6.6|No||No|1||1||158.0|lbs||63.0|in||119|69|||||N/A|Yes|Left Arm
+23|70|1|1|M|No|Left Hand|Some college but no degree||$75,000 - less than $100,000|||43|-6|Lab|6.0|-112|DCA|6.0|No||Yes|1|1|1||222.0|lbs||182.0|cm||97|54|||||N/A|Yes|Left Arm
+24|132|1|1|M|No|Left Hand|Some college but no degree||$25,000 - $35,000|||17|0|Lab|8.3|-215|Lab|7.6|No||No|1||1||200.0|lbs||70.0|in||137|78|||||N/A|Yes|Left Arm
+25|138|9|1|M|No|Right Hand|Associate Degree|||1||7|-21|DCA|6.7|-144|DCA|6.3|No||No|1||1||188.8|lbs||67.0|in||124|92|||||N/A|Yes|Left Arm
+26|102|2|1|F|No|Right Hand|9th Grade||$35,000 - less than $50,000|||11|0|DCA|10.3|-91|DCA|10.3|No||No|1||1||62.6|kg||165.0|cm||103|67|||5|5|Negative|Yes|Left Arm
+27|171|1|1|M|No|Right Hand|Associate Degree||$100,000 - less than $200,000|||40|-6|Lab|9.0|-101|Lab|9.1|No||No|1||1||194.0|lbs||70.0|in||130|87|||||N/A|Yes|Left Arm
+28|165|1|1|M|No|Right Hand|Associate Degree||$50,000 - less than $75,000|||29|0|DCA|6.7|-92|DCA|6.8|No||No|1||1||224.0|lbs||70.0|in||140|71|||||N/A|Yes|Left Arm
+29|31|1|1|F|No|Right Hand|Bachelor's Degree|||1||22|0|Lab|10.5|-105|DCA|10.2|No||No|1||1||181.9|lbs||64.0|in||122|79|||||Negative|Yes|Left Arm
+30|169|1|1|F|No|Right Hand|Some college but no degree||$35,000 - less than $50,000|||27|0|DCA|9.3|-339|DCA|8.4|No||No|1||1||176.0|lbs||67.0|in||102|65|||||N/A|Yes|Left Arm
+31|26|3|1|F|No|Right Hand|Doctorate Degree||$200,000 or more|||19|0|Other POC|9.2|-109|Lab|9.2|No||Yes|1|1|1||182.0|lbs||65.5|in||120|80|||||N/A|Yes|Right Arm
+32|27|3|1|F|No|Right Hand|Master's Degree||$100,000 - less than $200,000|||18|0|Other POC|10.2|-182|Lab|11.3|No||Yes|1|1|1||156.3|lbs||63.0|in||124|80|||||N/A|Yes|Left Arm
+33|95|3|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||43|0|Lab|11.0|-150|Lab|10.5|No||No|1||1||137.0|lbs||65.0|in||95|53|||||N/A|Yes|Left Arm
+34|211|3|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||13|-84|Lab|7.4|-259|Lab|8.5|No||No|1||1||224.0|lbs||63.0|in||136|84|||||N/A|Yes|Left Arm
+35|84|4|1|M|No|Right Hand|9th Grade||$100,000 - less than $200,000|||11|0|Afinion|9.3|-126|Afinion|9.8|No||Yes|1|1|1||69.7|kg||176.0|cm||111|86|||5|5|N/A|Yes|Left Arm
+36|91|4|1|F|No|Right Hand|10th Grade||||1|12|0|Afinion|6.6|-91|Afinion|6.7|No||No|1||1||57.8|kg||160.4|cm||122|71|||4|4|Negative|Yes|Left Arm
+37|161|8|1|M|No|Right Hand||1|||1|3|0|DCA|7.4|-154|Other POC|7.7|No||No|1||1||48.6|kg||156.3|cm||116|65|||1|2|N/A|Yes|Left Arm
+38|179|8|1|F|No|Right Hand||1|||1|7|0|DCA|6.8|-126|DCA|6.3|No||Yes|1|1|1||61.0|kg||155.3|cm||128|60|||5|5|N/A|Yes|Left Arm
+39|152|5|1|F|No|Right Hand|Some college but no degree||$100,000 - less than $200,000|||47|-34|DCA|7.3|-125|DCA|7.6|Yes|Medtronic|Yes|1|1|1||72.8|kg||157.6|cm||111|62|||||N/A|Yes|Left Arm
+40|61|4|1|M|No|Right Hand|10th Grade|||1||13|-4|Afinion|9.7|-116|Afinion|9.6|No||No|1||1||76.5|kg||179.0|cm||128|77|||4|4|N/A|Yes|Left Arm
+41|195|9|1|F|No|Right Hand|Doctorate Degree||$200,000 or more|||40|-7|DCA|6.6|-133|DCA|6.5|No||No|1||1||148.0|lbs||64.0|in||124|75|||||N/A|Yes|Left Arm
+42|86|5|1|F|No|Right Hand|Bachelor's Degree||Less than $25,000|||23|-16|DCA|9.4|-134|DCA|9.7|No||Yes|1|1|1||78.5|kg||166.3|cm||116|63|||||Negative|Yes|Left Arm
+43|184|9|1|M|No|Right Hand|Bachelor's Degree|||1||30|-42|DCA|8.4|-169|DCA|8.5|No||No|1||1||311.5|lbs||70.0|in||133|62|||||N/A|Yes|Left Arm
+44|137|1|1|F|Yes|Left Hand|High school graduate/diploma/GED||Less than $25,000|||9|0|DCA|8.0|-160|DCA|7.7|No||Yes|1|1|1||212.1|lbs||65.0|in||||1||||Negative|Yes|Left Arm
+45|63|9|1|M|No|Right Hand|Master's Degree||Less than $25,000|||3|0|DCA|7.7|-99|DCA|7.1|No||No|1||1||159.0|lbs||67.0|in||127|63|||||N/A|Yes|Left Arm
+46|24|1|1|F|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||26|-5|DCA|7.2|-187|DCA|8.0|No||Yes|1|1|1||165.0|lbs||63.0|in||115|75|||||N/A|Yes|Left Arm
+47|159|9|1|F|No|Ambidextrous|Bachelor's Degree||$50,000 - less than $75,000|||10|-76|Lab|6.5|-160|Lab|6.7|No||No|1||1||200.4|lbs||66.2|in||135|90|||||N/A|Yes|Left Arm
+48|75|5|1|F|No|Left Hand|Master's Degree||$50,000 - less than $75,000|||25|-90|DCA|8.4|-188|DCA|8.8|Yes|Dexcom|Yes|1|1|1||64.5|kg||164.0|cm||113|73|||||Negative|Yes|Left Arm
+49|35|5|1|F|No|Right Hand|Bachelor's Degree||$75,000 - less than $100,000|||18|0|Lab|7.7|-138|DCA|7.3|No||Yes|1|1|1||81.9|kg||163.0|cm||131|85|||||Negative|Yes|Left Arm
+50|163|5|1|F|No|Right Hand|Bachelor's Degree|||1||20|0|DCA|8.2|-132|DCA|6.5|Yes|Dexcom|Yes|1|1|1||64.5|kg||168.3|cm||116|63|||||N/A|Yes|Left Arm
+51|106|5|1|F|No|Right Hand|Master's Degree|||1||3|0|DCA|8.5|-98|DCA|7.4|No||Yes|1|1|1||52.6|kg||165.2|cm||139|67|||||N/A|Yes|Left Arm
+52|99|7|1|F|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$50,000 - less than $75,000|||3|-41|DCA|11.5|-67|DCA|11.7|No||No|1||1||50.7|kg||143.4|cm||105|65|||3|3|N/A|Yes|Left Arm
+53|22|7|1|M|No|Right Hand|7th or 8th Grade||$75,000 - less than $100,000|||6|0|DCA|7.2|-183|DCA|7.6|No||Yes|1|1|1||37.2|kg||149.7|cm||115|54|||1|2|N/A|Yes|Left Arm
+54|45|8|1|M|No|Left Hand|12th Grade - no diploma||$100,000 - less than $200,000|||10|0|DCA|7.8|-91|DCA|7.5|No||Yes|1|1|1||74.8|kg||183.3|cm||133|60|||5|5|N/A|Yes|Left Arm
+55|105|5|1|M|No|Right Hand|Master's Degree|||1||10|-2|DCA|6.4|-99|DCA|6.8|Yes|Medtronic|Yes|1|1|1||85.8|kg||174.1|cm||137|67|||||N/A|Yes|Right Arm
+56|17|5|1|F|No|Right Hand|Some college but no degree|||1||13|0|DCA|6.4|-176|DCA|5.8|No||Yes|1|1|1||60.0|kg||161.8|cm||115|74|||||Negative|Yes|Left Arm
+57|232|10|1|M|No|Left Hand|High school graduate/diploma/GED||Less than $25,000|||14|-84|Lab|6.7|-180|Lab|6.7|No||No|1||1||178.0|lbs||68.0|in||114|72|||||N/A|Yes|Left Arm
+58|43|7|1|M|No|Right Hand|5th or 6th grade||$100,000 - less than $200,000|||7|-55|DCA|8.3|-134|DCA|7.4|No||Yes|1|1|1||43.4|kg||153.4|cm||||1||3|3|N/A|Yes|Left Arm
+59|149|4|1|M|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$200,000 or more|||4|0|Afinion|7.1|-142|Afinion|6.8|Yes|Dexcom|Yes|1|1|1||35.5|kg||141.4|cm||122|56|||1|1|N/A|Yes|Left Arm
+60|59|10|1|F|No|Left Hand|Master's Degree||$75,000 - less than $100,000|||6|-74|Lab|7.2|-169|Unknown|7.7|No||Yes|1|1|1||130.8|lbs||60.5|in||127|74|||||Negative|Yes|Left Arm
+61|153|5|1|F|No|Right Hand|Some college but no degree|||1||42|-20|DCA|7.7|-28|Lab|7.6|No||Yes|1|1|1||65.0|kg||168.6|cm||147|71|||||N/A|Yes|Left Arm
+62|172|3|1|F|No|Right Hand|Bachelor's Degree||Less than $25,000|||21|-34|Lab|9.2|-93|Lab|8.9|No||Yes|1|1|1||240.0|lbs||66.5|in||97|70|||||Negative|Yes|Left Arm
+63|143|5|1|M|Yes|Right Hand|Some college but no degree|||1||12|-78|DCA|10.6|-171|DCA|9.0|No||Yes|1|1|1||95.3|kg||176.1|cm||143|70|||||N/A|Yes|Left Arm
+64|3|7|1|M|No|Right Hand|7th or 8th Grade|||1||12|-64|Lab|8.4|-162|Lab|7.4|No||Yes|1|1|1||56.1|kg||165.7|cm||123|68|||3|3|N/A|Yes|Left Arm
+65|62|10|1|M|Yes|Left Hand|Some college but no degree||Less than $25,000|||31|-40|Lab|9.0|-210|Lab|8.0|No||No|1||1||181.6|lbs||70.0|in||134|70|||||N/A|Yes|Left Arm
+66|196|1|1|M|No|Right Hand|Associate Degree||$75,000 - less than $100,000|||5|0|Lab|9.3|-238|DCA|7.9|Yes|Dexcom|No|1||1||199.0|lbs||71.0|in||||1||||N/A|Yes|Left Arm
+67|147|8|1|F|No|Right Hand|7th or 8th Grade||||1|6|0|DCA|7.3|-88|DCA|7.2|No||Yes|1|1|1||65.6|kg||159.1|cm||111|72|||5|5|N/A|Yes|Left Arm
+68|79|2|1|F|No|Right Hand|7th or 8th Grade|||1||11|-20|DCA|7.2|-147|DCA|6.2|No||No|1||1||111.7|kg||164.0|cm||141|79|||5|5|Negative|Yes|Right Arm
+69|118|5|1|M|No|Right Hand|Professional Degree|||1||16|-21|DCA|6.7|-147|DCA|6.5|Yes|Medtronic|Yes|1|1|1||95.9|kg||191.2|cm||120|78|||||N/A|Yes|Left Arm
+70|88|8|1|M|No|Left Hand|10th Grade||$200,000 or more|||9|0|DCA|7.4|-168|DCA|6.4|Yes|Dexcom|Yes|1|1|1||64.5|kg||184.5|cm||131|71||1|||N/A|Yes|Left Arm
+71|185|6|1|M|No|Right Hand|7th or 8th Grade||$200,000 or more|||3|-17|DCA|8.0|-136|DCA|8.5|Yes|Dexcom|Yes|1|1|1||136.0|lbs||169.9|cm||104|63|||4|3|N/A|Yes|Left Arm
+72|69|10|1|M|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||5|-3|Lab|6.9|-187|Lab|6.3|Yes|Dexcom|Yes|1|1|1||203.4|lbs||56.0|in||142|76|||||N/A|Yes|Left Arm
+73|202|8|1|M|No|Right Hand|7th or 8th Grade||$75,000 - less than $100,000|||11|-21|DCA|6.6|-126|DCA|6.4|No||No|1||1||69.9|kg||180.6|cm||121|58||1|||N/A|Yes|Left Arm
+74|208|2|1|M|No|Right Hand|5th or 6th grade||$75,000 - less than $100,000|||3|-90|DCA|8.6|-181|DCA|7.9|No||No|1||1||45.2|kg||149.3|cm||109|72|||2|2|N/A|Yes|Right Arm
+75|203|7|1|M|No|Left Hand|5th or 6th grade||$75,000 - less than $100,000|||7|-60|DCA|7.8|-82|Lab|8.5|No||Yes|1|1|1||49.7|kg||155.3|cm||107|54|||1|2|N/A|Yes|Left Arm
+76|197|4|1|M|No|Right Hand|5th or 6th grade||$100,000 - less than $200,000|||6|-68|Afinion|7.1|-159|Afinion|7.1|No||Yes|1|1|1||40.1|kg||148.5|cm||111|76|||2|2|N/A|Yes|Left Arm
+77|81|7|1|F|No|Left Hand|5th or 6th grade||Less than $25,000|||3|0|DCA|10.9|-86|DCA|11.3|No||No|1||1||65.2|kg||156.3|cm||116|58|||4|3|Negative|Yes|Left Arm
+78|141|7|1|M|No|Right Hand|7th or 8th Grade||$100,000 - less than $200,000|||8|-16|DCA|7.6|-121|DCA|7.7|No||Yes|1|1|1||50.9|kg||160.1|cm||108|52|||3|3|N/A|Yes|Left Arm
+79|154|7|1|F|No|Right Hand|9th Grade||||1|11|0|DCA|11.2|-95|DCA|10.1|No||Yes|1|1|1||75.2|kg||167.2|cm||129|75|||4|4|Negative|Yes|Left Arm
+80|162|10|1|F|No|Right Hand|Some college but no degree||$50,000 - less than $75,000|||15|0|DCA|8.2|-164|Lab|8.4|No||Yes|1|1|1||197.6|lbs||64.0|in||137|98|||||N/A|Yes|Left Arm
+81|94|5|1|M|No|Right Hand|Associate Degree|||1||20|-56|DCA|7.8|-198|DCA|8.8|No||No|1||1||71.0|kg||179.7|cm||108|62|||||N/A|Yes|Left Arm
+82|53|5|1|M|No|Left Hand|Some college but no degree||||1|13|0|DCA|8.4|-207|DCA|8.8|No||No|1||1||51.6|kg||160.4|cm||128|68|||||N/A|Yes|Left Arm
+83|78|1|1|F|No|Right Hand|Some college but no degree||Less than $25,000|||11|-35|DCA|7.0|-126|DCA|7.3|No||Yes|1|1|1||205.0|lbs||68.0|in||||1||||Negative|Yes|Left Arm
+84|180|1|1|F|No|Right Hand|Some college but no degree||$100,000 - less than $200,000|||37|-22|DCA|6.2|-148|DCA|6.7|No||No|1||1||130.0|lbs||62.0|in||113|75|||||Negative|Yes|Left Arm
+85|7|1|1|F|No|Right Hand|Some college but no degree|||1||44|-56|DCA|10.4|-145|DCA|10.1|No||Yes|1|1|1||193.0|lbs||64.0|in||115|68|||||Negative|Yes|Left Arm
+86|111|3|1|M|No|Right Hand|Professional Degree||$100,000 - less than $200,000|||27|-7|Lab|7.4|-141|Lab|7.3|No||No|1||1||169.0|lbs||69.3|in||131|72|||||N/A|Yes|Left Arm
+87|218|9|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||18|0|DCA|10.8|-181|Unknown|11.3|No||No|1||1||244.6|lbs||71.0|in||119|74|||||Negative|Yes|Left Arm
+88|30|5|1|M|No|Right Hand|Bachelor's Degree||$100,000 - less than $200,000|||14|-6|DCA|7.6|-755|DCA|7.8|Yes|Medtronic|Yes|1|1|1||90.5|kg||173.0|cm||138|92|||||N/A|Yes|Left Arm
+89|48|3|1|M|No|Right Hand|Some college but no degree||$35,000 - less than $50,000|||13|-1|Other POC|9.6|-190|Lab|8.7|No||No|1||1||303.0|lbs||72.7|in||133|85|||||N/A|Yes|Left Arm
+90|55|7|1|F|No|Right Hand|7th or 8th Grade||$35,000 - less than $50,000|||2|-10|DCA|9.5|-115|DCA|9.5|No||Yes|1|1|1||88.9|kg||159.2|cm||123|67||1|||Negative|Yes|Left Arm
+91|25|5|1|F|No|Right Hand|Some college but no degree|||1||58|0|DCA|8.9|-38|DCA|8.7|Yes|Dexcom|Yes|1|1|1||101.3|kg||163.5|cm||144|83|||||N/A|Yes|Left Arm
+92|44|9|1|M|No|Right Hand|Some college but no degree|||1||22|0|DCA|6.6|-90|DCA|6.5|No||Yes|1|1|1||186.0|lbs||68.0|in||140|84|||||N/A|Yes|Right Arm
+93|123|5|1|F|No|Right Hand||1|||1|34|0|DCA|7.1|-78|Lab|7.6|No||No|1||1||63.0|kg||168.2|cm||144|81|||||N/A|Yes|Left Arm
+94|230|2|1|F|Yes|Right Hand|1st, 2nd, 3rd, or 4th grade|||1||6|0|DCA|11.3|-113|DCA|10.4|No||No|1||1||45.4|kg||138.6|cm||107|70|||2|2|N/A|Yes|Right Arm
+95|89|2|1|M|No|Right Hand|11th Grade|||1||8|-13|DCA|6.8|-104|DCA|6.9|No||No|1||1||82.7|kg||171.4|cm||132|67||1|||N/A|Yes|Right Arm
+96|176|9|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||21|0|DCA|7.5|-100|DCA|7.9|No||No|1||1||137.6|lbs||65.7|in||110|65|||||Negative|Yes|Left Arm
+97|10|3|1|F|No|Right Hand|Bachelor's Degree||$100,000 - less than $200,000|||26|0|Other POC|8.4|-685|Lab|7.8|No||Yes|1|1|1||168.0|lbs||65.5|in||130|78|||||N/A|Yes|Left Arm
+98|21|3|1|F|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||22|-57|Lab|7.7|-304|Lab|6.4|No||Yes|1|1|1||142.0|lbs||65.0|in||118|72|||||N/A|Yes|Left Arm
+99|181|9|1|M|No|Right Hand|Bachelor's Degree||$75,000 - less than $100,000|||25|0|DCA|6.4|-125|DCA|6.5|No||No|1||1||247.4|lbs||178.5|cm||140|80|||||N/A|Yes|Left Arm
+100|186|7|1|F|No|Right Hand|5th or 6th grade|||1||7|0|DCA|9.5|-147|DCA|8.7|No||Yes|1|1|1||59.3|kg||167.0|cm||123|56|||4|3|Negative|Yes|Left Arm
+101|67|2|1|M|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$100,000 - less than $200,000|||6|0|DCA|8.1|-91|DCA|8.3|Yes|Medtronic|Yes|1|1|1||45.1|kg||148.6|cm||117|70|||1|1|N/A|Yes|Right Arm
+102|56|7|1|M|No|Right Hand|11th Grade||$75,000 - less than $100,000|||4|-30|DCA|7.0|-154|DCA|7.3|No||No|1||1||78.7|kg||170.4|cm||120|63|||5|5|N/A|Yes|Left Arm
+103|139|8|1|F|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$25,000 - $35,000|||1|0|DCA|10.9|-428|DCA|10.0|No||No|1||1||28.6|kg||123.4|cm||112|69|||1|1|N/A|Yes|Left Arm
+104|133|8|1|F|No|Right Hand|11th Grade||$35,000 - less than $50,000|||9|-5|DCA|6.9|-110|DCA|7.1|No||No|1||1||82.7|kg||154.8|cm||115|56||1|||N/A|Yes|Left Arm
+105|225|3|1|F|No|Right Hand|Bachelor's Degree||$100,000 - less than $200,000|||21|-47|Lab|8.3|-145|Lab|7.7|No||No|1||1||208.0|lbs||64.8|in||139|90|||||N/A|Yes|Left Arm
+106|192|6|1|F|No|Left Hand|1st, 2nd, 3rd, or 4th grade||$100,000 - less than $200,000|||4|-21|DCA|8.6|-112|DCA|9.5|Yes|Dexcom|Yes|1|1|1||73.0|lbs||136.5|cm||104|72|||1|1|N/A|Yes|Left Arm
+107|2|9|1|F|No|Right Hand|Associate Degree||$25,000 - $35,000|||19|-43|DCA|11.5|-211|DCA|13.8|No||No|1||1||193.5|lbs||68.5|in||108|72|||||Negative|Yes|Left Arm
+108|101|7|1|F|No|Right Hand|5th or 6th grade||$35,000 - less than $50,000|||10|-3|DCA|9.7|-185|DCA|11.2|No||No|1||1||66.0|kg||155.0|cm||106|65|||5|5|Negative|Yes|Left Arm
+109|221|6|1|F|No|Right Hand|5th or 6th grade||Less than $25,000|||3|0|DCA|8.9|-75|DCA|8.7|No||Yes|1|1|1||33.3|kg||131.3|cm||114|74|||2|2|N/A|Yes|Left Arm
+110|127|8|1|M|No|Left Hand|5th or 6th grade||$100,000 - less than $200,000|||6|-39|DCA|7.9|-179|DCA|7.4|Yes|Medtronic|Yes|1|1|1||62.4|kg||175.3|cm||111|57||1|||N/A|Yes|Right Arm
+111|6|10|1|F|No|Right Hand|High school graduate/diploma/GED|||1||13|-18|Lab|6.9|-2510|Unknown|8.3|No||No|1||1||195.4|lbs||60.0|in||117|65|||||Negative|Yes|Left Arm
+112|170|8|1|M|No|Right Hand|5th or 6th grade||Less than $25,000|||9|0|DCA|10.6|-133|DCA|11.5|No||No|1||1||37.0|kg||145.7|cm||104|54||1|||N/A|Yes|Left Arm
+113|120|8|1|M|No|Right Hand|5th or 6th grade||$25,000 - $35,000|||8|0|DCA|8.9|-98|DCA|8.7|No||No|1||1||69.6|kg||158.5|cm||128|64||1|||N/A|Yes|Left Arm
+114|210|3|1|F|No|Right Hand|Bachelor's Degree||$75,000 - less than $100,000|||24|-61|Lab|8.8|-82|Lab|8.6|No||No|1||1||132.0|lbs||65.0|in||111|72|||||N/A|Yes|Left Arm
+115|15|2|1|M|No|Right Hand|5th or 6th grade||$100,000 - less than $200,000|||3|0|DCA|8.0|-105|DCA|7.8|No||Yes|1|1|1||35.8|kg||137.7|cm||107|69|||1|1|N/A|Yes|Right Arm
+116|51|9|1|F|No|Right Hand|Bachelor's Degree||$75,000 - less than $100,000|||29|-31|DCA|6.8|-283|DCA|6.2|No||No|1||1||135.6|lbs||63.5|in||126|40|||||N/A|Yes|Left Arm
+117|85|9|1|F|No|Right Hand|Bachelor's Degree|||1||19|77|DCA|11.6|0|DCA|12.5|No||No|1||1||215.6|lbs||70.5|in||126|59|||||N/A|Yes|Left Arm
+118|214|6|1|F|No|Left Hand|10th Grade||$35,000 - less than $50,000|||9|-46|DCA|9.1|-95|DCA|9.5|No||No|1||1||194.3|lbs||163.0|cm||103|62|||5|5|N/A|Yes|Left Arm
+119|148|10|1|M|No|Left Hand|High school graduate/diploma/GED||$35,000 - less than $50,000|||11|0|DCA|7.9|-180|Lab|9.5|No||No|1||1||162.8|lbs||70.5|in||120|63|||||N/A|Yes|Left Arm
+120|39|10|1|F|No|Right Hand|High school graduate/diploma/GED||$50,000 - less than $75,000|||21|0|DCA|8.0|-116|Unknown|7.0|No||Yes|1|1|1||166.8|lbs||64.0|in||123|88|||||N/A|Yes|Left Arm
+121|66|10|1|M|No|Right Hand|Bachelor's Degree||$75,000 - less than $100,000|||11|-11|Lab|8.9|-130|Lab|9.1|No||Yes|1|1|1||218.4|lbs||70.0|in||125|72|||||N/A|Yes|Left Arm
+122|71|7|1|F|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$35,000 - less than $50,000|||7|0|DCA|10.9|-141|DCA|10.7|No||No|1||1||35.2|kg||141.1|cm||101|51|||1|3|N/A|Yes|Left Arm
+123|119|7|1|F|No|Right Hand|5th or 6th grade|||1||2|-30|DCA|9.0|-93|DCA|9.1|No||No|1||1||38.7|kg||148.7|cm||107|70||1|||Negative|Yes|Left Arm
+124|42|10|1|M|No|Left Hand|Some college but no degree||$50,000 - less than $75,000|||8|0|DCA|8.3|-260|Lab|8.4|No||No|1||1||173.0|lbs||66.0|in||123|73|||||N/A|Yes|Left Arm
+125|140|4|1|M|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$35,000 - less than $50,000|||7|-19|Afinion|8.5|-139|Afinion|8.3|No||No|1||1||41.8|kg||143.0|cm||99|67|||1|1|N/A|Yes|Left Arm
+126|60|4|1|M|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$35,000 - less than $50,000|||7|-20|Afinion|8.6|-139|Afinion|8.3|Yes|Dexcom|Yes|1|1|1||43.3|kg||143.2|cm||125|87|||1|1|N/A|Yes|Left Arm
+127|107|6|1|M|No|Right Hand|9th Grade||$35,000 - less than $50,000|||1|-49|DCA|8.5|-147|DCA|8.6|No||Yes|1|1|1||130.2|lbs||165.8|cm||116|72||1|||N/A|Yes|Right Arm
+128|168|1|1|M|No|Right Hand|Master's Degree||Less than $25,000|||33|-23|Lab|7.3|-435|Lab|6.8|No||No|1||1||218.0|lbs||68.0|in||116|79|||||N/A|Yes|Left Arm
+129|113|10|1|M|Yes|Right Hand|Some college but no degree||||1|14|-49|Lab|11.2|-50|Lab|11.2|No||No|1||1||151.6|lbs||66.0|in||117|73|||||N/A|Yes|Left Arm
+130|18|7|1|M|No|Left Hand|7th or 8th Grade||$35,000 - less than $50,000|||6|-7|DCA|8.7|-105|DCA|10.7|No||No|1||1||92.0|kg||190.3|cm||125|58|||4|5|N/A|Yes|Left Arm
+131|166|3|1|M|No|Right Hand|Master's Degree||$50,000 - less than $75,000|||34|0|Lab|8.0|-174|Other POC|8.1|No||No|1||1||255.0|lbs||68.0|in||112|73|||||N/A|Yes|Left Arm
+132|126|3|1|F|No|Right Hand|Associate Degree||$50,000 - less than $75,000|||39|0|Other POC|6.4|-282|Lab|6.5|No||No|1||1||179.0|lbs||66.5|in||114|91|||||N/A|Yes|Left Arm
+133|129|3|1|F|No|Right Hand|Bachelor's Degree||$200,000 or more|||23|-90|Lab|9.8|-427|Lab|9.5|No||Yes|1|1|1||139.0|lbs||59.8|in||126|83|||||N/A|Yes|Left Arm
+134|37|3|1|F|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||21|0|Other POC|8.4|-350|Lab|7.6|No||No|1||1||128.0|lbs||64.0|in||127|84|||||N/A|Yes|Left Arm
+135|222|9|1|F|No|Right Hand|Some college but no degree||$50,000 - less than $75,000|||35|0|DCA|7.5|-182|DCA|9.0|No||No|1||1||151.8|lbs||65.0|in||100|63|||||Negative|Yes|Left Arm
+136|151|10|1|F|No|Right Hand|Bachelor's Degree||$100,000 - less than $200,000|||6|0|DCA|7.6|-95|Lab|7.4|Yes|Medtronic|Yes|1|1|1||232.2|lbs||70.0|in||136|81|||||N/A|Yes|Left Arm
+137|47|10|1|F|No|Right Hand|Bachelor's Degree||$50,000 - less than $75,000|||16|-8|Lab|7.2|-105|Unknown|8.0|Yes|Dexcom|Yes|1|1|1||163.2|lbs||63.0|in||113|71|||||N/A|Yes|Left Arm
+138|32|2|1|F|No|Right Hand|5th or 6th grade|||1||7|0|DCA|8.7|-105|DCA|8.1|No||Yes|1|1|1||51.8|kg||162.0|cm||112|69|||4|4|Negative|Yes|Right Arm
+139|188|1|1|M|No|Left Hand|1st, 2nd, 3rd, or 4th grade||$25,000 - $35,000|||4|0|DCA|11.0|-91|DCA|10.0|No||Yes|1|1|1||73.0|lbs||51.0|in||108|63||1|||N/A|Yes|Left Arm
+140|23|1|1|F|No|Right Hand|Bachelor's Degree||Less than $25,000|||16|-42|Lab|8.8|-139|DCA|8.2|No||Yes|1|1|1||165.8|lbs||63.0|in||112|76|||||Negative|Yes|Left Arm
+141|98|4|1|F|No|Left Hand|5th or 6th grade||$50,000 - less than $75,000|||7|-27|Afinion|9.3|-174|Afinion|8.6|No||No|1||1||41.4|kg||148.5|cm||111|79|||2|3|N/A|Yes|Left Arm
+142|201|1|1|F|Yes|Right Hand|Master's Degree||Less than $25,000|||11|-3|DCA|9.0|-212|DCA|8.4|No||No|1||1||233.3|lbs||65.0|in||154|86|||||N/A|Yes|Left Arm
+143|73|9|1|F|No|Left Hand|Master's Degree||$75,000 - less than $100,000|||48|0|DCA|7.2|-107|DCA|7.4|Yes|Dexcom|Yes|1|1|1||146.6|lbs||61.6|in||134|88|||||N/A|Yes|Left Arm
+144|175|10|1|M|No|Left Hand|Some college but no degree||Less than $25,000|||12|-10|Lab|9.5|-221|Lab|7.5|No||Yes|1|1|1||155.0|lbs||71.5|in||115|66|||||N/A|Yes|Left Arm
+145|193|8|1|F|No|Right Hand|10th Grade||$100,000 - less than $200,000|||7|0|DCA|10.6|-105|DCA|9.9|No||Yes|1|1|1||59.6|kg||159.1|cm||135|65|||5|5|Negative|Yes|Left Arm
+146|20|7|1|M|No|Right Hand|7th or 8th Grade||$25,000 - $35,000|||8|-2|DCA|9.9|-145|DCA|10.6|No||No|1||1||55.8|kg||158.8|cm||114|77|||4|4|N/A|Yes|Left Arm
+147|9|5|1|M|No|Right Hand|High school graduate/diploma/GED|||1||12|-22|DCA|9.5|-50|Lab|9.4|No||No|1||1||141.9|kg||180.3|cm||115|73|||||N/A|Yes|Left Arm
+148|52|8|1|M|No|Right Hand|11th Grade||Less than $25,000|||12|0|DCA|7.0|-98|DCA|7.0|No||Yes|1|1|1||53.5|kg||165.3|cm||105|55|||||N/A|Yes|Left Arm
+149|158|7|1|F|Yes|Left Hand|Some college but no degree||$35,000 - less than $50,000|||13|-12|DCA|11.6|-82|DCA|10.8|No||No|1||1||59.3|kg||154.4|cm||107|63|||||Negative|Yes|Left Arm
+150|64|7|1|M|Yes|Left Hand|9th Grade||Less than $25,000|||9|-9|DCA|9.7|-45|DCA|9.0|No||No|1||1||81.1|kg||181.5|cm||113|61|||4|5|N/A|Yes|Left Arm
+151|13|10|1|M|No|Right Hand|Master's Degree|||1||6|-9|Lab|9.7|-195|Lab|9.5|No||Yes|1|1|1||150.2|lbs||68.0|in||127|72|||||N/A|Yes|Left Arm
+152|68|1|1|F|No|Right Hand|Associate Degree||$35,000 - less than $50,000|||16|0|DCA|12.0|-161|DCA|10.7|No||No|1||1||188.0|lbs||65.0|in||123|83|||||N/A|Yes|Left Arm
+153|34|9|1|F|No|Right Hand|Some college but no degree||||1|7|0|DCA|10.3|-92|DCA|9.8|No||No|1||1||122.6|lbs||64.5|in||117|67|||||Negative|Yes|Right Arm
+154|58|1|1|F|No|Right Hand|Master's Degree||$100,000 - less than $200,000|||19|-49|DCA|8.2|-315|DCA|9.6|No||Yes|1|1|1||75.7|kg||65.0|in||110|71|||||N/A|Yes|Left Arm
+155|115|10|1|F|No|Right Hand|Some college but no degree|||1||29|0|DCA|8.4|-182|Lab|6.3|No||No|1||1||125.2|lbs||66.0|in||177|113|||||Negative|Yes|Left Arm
+156|205|7|1|M|Yes|Right Hand|10th Grade|||1||6|-11|DCA|10.0|-151|DCA|8.8|No||No|1||1||72.4|kg||178.2|cm||130|72|||5|5|N/A|Yes|Left Arm
+157|223|8|1|M|No|Right Hand|11th Grade||||1|12|0|DCA|10.8|-91|DCA|10.2|No||No|1||1||111.1|kg||167.3|cm||113|68|||||N/A|Yes|Left Arm
+158|12|7|1|F|No|Right Hand|5th or 6th grade||$35,000 - less than $50,000|||9|-16|DCA|10.3|-107|DCA|9.8|No||No|1||1||29.7|kg||133.8|cm||111|75|||3|3|Negative|Yes|Left Arm
+159|112|2|1|F|No|Right Hand|7th or 8th Grade|||1||4|0|DCA|10.2|-98|DCA|10.8|No||Yes|1|1|1||59.4|kg||162.8|cm||129|75||1|||Negative|Yes|Right Arm
+160|145|10|1|F|No|Left Hand|Some college but no degree||Less than $25,000|||18|-89|Lab|8.1|-439|Lab|8.9|No||Yes|1|1|1||140.2|lbs||69.5|in||118|72|||||Negative|Yes|Left Arm
+161|189|2|1|M|No|Right Hand|9th Grade||$100,000 - less than $200,000|||10|0|DCA|7.9|-91|DCA|8.1|Yes|Dexcom|Yes|1|1|1||84.4|kg||178.6|cm||123|71|||5|5|N/A|Yes|Right Arm
+162|117|8|1|F|No|Right Hand||1|||1|10|0|DCA|10.6|-81|DCA|11.1|No||Yes|1|1|1||37.6|kg||149.1|cm||106|55||1|||Negative|Yes|Left Arm
+163|199|5|1|M|No|Right Hand|11th Grade||||1|30|-33|DCA|9.5|-56|Lab|9.8|No||No|1||1||76.0|kg||184.7|cm||128|73|||||N/A|Yes|Left Arm
+164|226|9|1|F|No|Left Hand|Bachelor's Degree||$100,000 - less than $200,000|||48|-71|DCA|7.8|-288|DCA|8.1|No||No|1||1||163.0|lbs||61.6|in||130|85|||||N/A|Yes|Left Arm
+165|104|6|1|F|No|Right Hand|7th or 8th Grade||$25,000 - $35,000|||5|-2|DCA|10.4|-30|DCA|11.5|No||Yes|1|1|1||62.7|kg||168.0|cm||115|70|||4|4|N/A|Yes|Left Arm
+166|76|3|1|F|No|Right Hand|Bachelor's Degree||$75,000 - less than $100,000|||5|0|Other POC|10.2|-348|Lab|9.2|No||Yes|1|1|1||79.4|kg||157.0|cm||104|72|||||N/A|Yes|Right Arm
+167|209|2|1|F|No|Right Hand|10th Grade||$100,000 - less than $200,000|||7|-16|DCA|9.7|-114|DCA|10.5|No||Yes|1|1|1||69.4|kg||162.5|cm||103|67|||5|5|Negative|Yes|Right Arm
+168|231|2|1|F|No|Left Hand|10th Grade||$100,000 - less than $200,000|||9|-14|DCA|7.9|-112|DCA|7.9|No||Yes|1|1|1||77.1|kg||153.9|cm||117|70|||5|5|Negative|Yes|Right Arm
+169|150|10|1|F|No|Right Hand|Some college but no degree|||1||20|-20|Lab|10.3|-154|Lab|7.2|No||No|1||1||119.6|lbs||63.0|in||117|76|||||Negative|Yes|Left Arm
+170|124|3|1|M|No|Right Hand|Professional Degree||$75,000 - less than $100,000|||10|-24|Lab|6.8|-177|Lab|6.3|No||Yes|1|1|1||93.9|kg||179.7|cm||122|60|||||N/A|Yes|Left Arm
+171|136|2|1|M|No|Right Hand|1st, 2nd, 3rd, or 4th grade|||1||3|-27|DCA|10.6|-118|DCA|10.5|No||No|1||1||26.5|kg||127.5|cm||91|51|||1|1|N/A|Yes|Right Arm
+172|130|9|1|M|Yes|Left Hand|11th Grade||||1|26|-30|DCA|7.7|-133|DCA|9.2|No||No|1||1||163.2|lbs||65.1|in||155|82|||||N/A|Yes|Left Arm
+173|110|5|1|M|No|Left Hand|Some college but no degree||||1|13|-56|DCA|9.8|-142|DCA|9.0|No||Yes|1|1|1||78.4|kg||187.0|cm||127|78|||||N/A|Yes|Left Arm
+174|40|8|1|F|No|Right Hand|5th or 6th grade|||1||6|-27|DCA|8.5|-119|DCA|8.0|No||Yes|1|1|1||42.8|kg||158.4|cm||97|52||1|||N/A|Yes|Left Arm
+175|82|10|1|F|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||20|0|DCA|7.9|-95|Lab|7.9|Yes|Medtronic|Yes|1|1|1||161.2|lbs||63.0|in||143|83|||||N/A|Yes|Left Arm
+176|213|1|1|F|No|Right Hand|Master's Degree||$75,000 - less than $100,000|||2|-42|DCA|8.2|-218|DCA|8.7|Yes|Dexcom|No|1||1||119.0|lbs||62.0|in||127|71|||||Negative|Yes|Left Arm
+177|14|1|1|F|No|Right Hand|Master's Degree||$50,000 - less than $75,000|||36|-40|DCA|10.0|-194|DCA|9.2|No||Yes|1|1|1||245.0|lbs||68.0|in||113|75|||||N/A|Yes|Left Arm
+178|72|1|1|F|No|Right Hand|Master's Degree||Less than $25,000|||32|-40|DCA|8.0|-174|DCA|8.3|No||No|1||1||165.0|lbs||65.0|in||121|66|||||N/A|Yes|Left Arm
+179|19|2|1|M|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$50,000 - less than $75,000|||5|-27|DCA|7.2|-132|DCA|7.9|Yes|Medtronic|Yes|1|1|1||30.1|kg||134.8|cm||113|74|||1|1|N/A|Yes|Right Arm
+180|28|7|1|F|No|Right Hand|11th Grade||$100,000 - less than $200,000|||10|-35|DCA|8.1|-105|DCA|8.9|No||Yes|1|1|1||60.8|kg||160.8|cm||129|79|||4|5|Negative|Yes|Left Arm
+181|11|5|1|M|No|Right Hand|High school graduate/diploma/GED|||1||17|0|DCA|9.0|-107|DCA|9.0|No||No|1||1||71.8|kg||170.6|cm||120|70|||||N/A|Yes|Left Arm
+182|90|6|1|F|No|Right Hand|7th or 8th Grade||$75,000 - less than $100,000|||1|0|DCA|10.4|-63|DCA|10.5|No||No|1||1||57.3|kg||164.0|cm||98|65||1|||N/A|Yes|Left Arm
+183|146|3|1|M|No|Left Hand|Bachelor's Degree||$100,000 - less than $200,000|||35|-16|Lab|7.8|-225|Lab|8.1|No||No|1||1||89.8|kg||189.2|cm||132|76|||||N/A|Yes|Left Arm
+184|77|7|1|M|No|Right Hand|9th Grade|||1||2|-48|DCA|7.8|-146|DCA|8.7|No||No|1||1||40.8|kg||150.5|cm||116|62|||2|3|N/A|Yes|Left Arm
+185|207|1|1|M|No|Right Hand|Some college but no degree||Less than $25,000|||4|-6|DCA|9.2|-977|DCA|13.3|No||No|1||1||162.0|lbs||67.0|in||157|96|||||N/A|Yes|Left Arm
+186|216|6|1|F|No|Right Hand|1st, 2nd, 3rd, or 4th grade||Less than $25,000|||8|-1|DCA|8.5|-89|DCA|7.5|No||Yes|1|1|1||51.7|kg||156.0|cm||103|69|||3|4|N/A|Yes|Left Arm
+187|29|8|1|M|No|Left Hand|9th Grade|||1||5|-13|DCA|6.8|-160|DCA|6.8|No||Yes|1|1|1||57.2|kg||170.9|cm||125|58|||4|4|N/A|Yes|Left Arm
+188|16|6|1|M|No|Right Hand|9th Grade||$100,000 - less than $200,000|||8|-19|DCA|8.5|-418|DCA|8.4|No||Yes|1|1|1||150.0|lbs||64.0|in||118|72||1|||N/A|Yes|Left Arm
+189|187|9|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||14|-67|Lab|7.0|-125|Lab|7.2|No||No|1||1||177.4|lbs||66.0|in||112|67|||||N/A|Yes|Left Arm
+190|74|7|1|F|No|Right Hand|1st, 2nd, 3rd, or 4th grade||$25,000 - $35,000|||4|0|DCA|9.2|-29|DCA|9.4|No||No|1||1||28.1|kg||126.6|cm||97|58|||1|1|N/A|Yes|Left Arm
+191|125|8|1|F|No|Right Hand|7th or 8th Grade||$200,000 or more|||9|0|DCA|9.1|-133|DCA|8.4|Yes|Dexcom|Yes|1|1|1||55.9|kg||165.5|cm||109|58||1|||N/A|Yes|Left Arm
+192|183|8|1|M|No|Right Hand|7th or 8th Grade||$100,000 - less than $200,000|||3|0|DCA|7.6|-133|DCA|7.0|No||Yes|1|1|1||49.8|kg||160.7|cm||119|72|||3|1|N/A|Yes|Left Arm
+193|103|6|1|M|No|Right Hand|7th or 8th Grade||$200,000 or more|||1|-5|DCA|10.3|-103|DCA|10.5|No||Yes|1|1|1||44.2|kg||158.1|cm||100|63||1|||N/A|Yes|Left Arm
+194|229|2|1|F|No|Right Hand|7th or 8th Grade|||1||10|-5|DCA|9.5|-131|DCA|9.7|No||Yes|1|1|1||48.2|kg||152.2|cm||101|71|||3|3|N/A|Yes|Right Arm
+195|135|1|1|M|No|Right Hand|Associate Degree|||1||7|0|Lab|7.6|-78|DCA|6.9|No||No|1||1||195.0|lbs||72.0|in||113|71|||||N/A|Yes|Left Arm
+196|46|1|1|M|No|Right Hand|Master's Degree||$200,000 or more|||27|0|Lab|7.6|-61|DCA|7.8|Yes|Dexcom|Yes|1|1|1||219.0|lbs||66.0|in||||1||||N/A|Yes|Left Arm
+197|134|6|1|M|No|Right Hand|9th Grade||$75,000 - less than $100,000|||12|-7|DCA|7.6|-65|DCA|9.0|No||No|1||1||65.5|kg||175.4|cm||111|63||1|||N/A|Yes|Left Arm
+198|198|3|1|M|No|Right Hand|Associate Degree||$25,000 - $35,000|||24|-28|Lab|8.5|-136|Lab|8.5|No||No|1||1||57.7|kg||171.4|cm||110|70|||||N/A|Yes|Left Arm
+199|131|1|1|M|No|Ambidextrous|Some college but no degree||Less than $25,000|||32|-50|DCA|8.3|-140|DCA|7.1|No||No|1||1||176.0|lbs||70.0|in||126|77|||||N/A|Yes|Left Arm
+200|177|4|1|M|No|Right Hand|10th Grade||$50,000 - less than $75,000|||9|-6|Afinion|11.1|-154|Afinion|12.0|No||No|1||1||70.1|kg||167.8|cm||143|92|||4|4|N/A|Yes|Left Arm
+201|87|6|1|M|No|Right Hand|11th Grade||Less than $25,000|||8|-34|DCA|9.3|-153|DCA|8.2|No||Yes|1|1|1||75.6|kg||176.3|cm||122|76|||||N/A|Yes|Left Arm
+202|121|9|1|M|No|Right Hand|Bachelor's Degree|||1||38|0|DCA|8.6|-271|DCA|7.3|No||No|1||1||203.0|lbs||69.5|in||108|70|||||N/A|Yes|Left Arm
+203|36|3|1|F|No|Right Hand|Bachelor's Degree||$25,000 - $35,000|||14|0|Other POC|7.8|-158|Lab|8.7|No||No|1||1||78.9|kg||161.5|cm||148|90|||||N/A|Yes|Left Arm
+204|96|3|1|F|No|Right Hand|Some college but no degree||$25,000 - $35,000|||8|0|Lab|9.3|-56|Lab|8.9|No||No|1||1||80.0|kg||163.5|cm||138|70|||||N/A|Yes|Left Arm
+205|173|8|1|F|No|Right Hand|7th or 8th Grade||$25,000 - $35,000|||10|0|DCA|8.1|-60|DCA|7.1|No||Yes|1|1|1||66.5|kg||163.2|cm||120|58||1|||N/A|Yes|Left Arm
+206|224|1|1|F|No|Right Hand|11th Grade||Less than $25,000|||11|0|Lab|10.5|-288|DCA|8.1|No||No|1||1||160.0|lbs||64.0|in||122|70||1|||Negative|Yes|Left Arm
+207|38|1|1|M|No|Right Hand|Associate Degree||$100,000 - less than $200,000|||29|0|DCA|7.8|-105|DCA|7.8|No||No|1||1||220.0|lbs||177.0|cm||131|83|||||N/A|Yes|Left Arm
+208|142|1|1|M|Yes|Right Hand|12th Grade - no diploma||$25,000 - $35,000|||10|-5|DCA|8.8|-704|DCA|8.7|No||No|1||1||168.0|lbs||68.0|in||119|67|||||N/A|Yes|Left Arm
+209|155|5|1|M|No|Right Hand|Bachelor's Degree|||1||48|-15|Lab|7.2|-112|Lab|7.0|No||No|1||1||87.9|kg||165.2|cm||136|83|||||N/A|Yes|Left Arm
+210|220|7|1|M|No|Right Hand|5th or 6th grade||$75,000 - less than $100,000|||6|-78|Lab|7.7|-169|DCA|7.6|Yes|Dexcom|No|1||1||46.0|kg||145.4|cm||99|57|||2|3|N/A|Yes|Left Arm
+211|100|10|1|F|No|Right Hand|Bachelor's Degree||$35,000 - less than $50,000|||6|0|DCA|8.1|-1|DCA|8.1|No||Yes|1|1|1||121.0|kg||62.0|in||133|94|||||Negative|Yes|Left Arm
+212|219|8|1|F|No|Right Hand|5th or 6th grade||||1|2|0|DCA|8.3|-76|DCA|8.6|No||No|1||1||45.3|kg||153.7|cm||117|64||1|||N/A|Yes|Left Arm
+213|212|5|1|F|No|Right Hand|Doctorate Degree||$100,000 - less than $200,000|||12|-47|DCA|7.1|-376|DCA|7.1|No||Yes|1|1|1||62.5|kg||159.8|cm||98|64|||||Negative|Yes|Left Arm
+214|4|7|1|M|No|Right Hand|10th Grade||$25,000 - $35,000|||13|0|DCA|11.5|-96|DCA|10.2|No||No|1||1||59.9|kg||165.2|cm||117|60||1|||N/A|Yes|Left Arm
+215|83|4|1|F|No|Right Hand|11th Grade||$75,000 - less than $100,000|||1|0|Afinion|8.7|-63|Afinion|10.7|No||No|1||1||64.8|kg||172.7|cm||102|72|||5|5|Negative|Yes|Left Arm
+216|8|6|1|F|No|Right Hand|Some college but no degree||Less than $25,000|||5|-21|DCA|7.6|-77|DCA|8.3|No||No|1||1||71.3|kg||161.2|cm||128|75|||||N/A|Yes|Left Arm
+217|178|1|1|F|No|Left Hand|Master's Degree|||1||19|0|DCA|6.6|-140|DCA|7.1|Yes|Dexcom|Yes|1|1|1||148.0|lbs||68.0|in||109|72|||||N/A|Yes|Left Arm
+218|206|1|1|M|No|Right Hand|High school graduate/diploma/GED||$25,000 - $35,000|||20|0|DCA|7.5|-519|DCA|7.4|No||No|1||1||209.1|lbs||73.0|in||139|79|||||N/A|Yes|Left Arm
+219|144|6|1|F|No|Right Hand|7th or 8th Grade||$75,000 - less than $100,000|||10|0|DCA|9.3|-58|DCA|9.6|No||Yes|1|1|1||74.5|kg||163.3|cm||124|82||1|||N/A|Yes|Left Arm
+220|41|9|1|M|No|Left Hand|Some college but no degree||$75,000 - less than $100,000|||31|-73|DCA|8.0|-178|DCA|8.0|Yes|Medtronic|Yes|1|1|1||225.5|lbs||72.5|in||142|83|||||N/A|Yes|Left Arm
+221|54|5|1|M|No|Right Hand|Some college but no degree||Less than $25,000|||29|0|DCA|10.3|-102|DCA|10.1|No||No|1||1||116.3|kg||198.3|cm||114|66|||||N/A|Yes|Left Arm
+222|182|1|1|F|No|Right Hand|High school graduate/diploma/GED|||1||21|0|Lab|8.0|-50|DCA|8.7|No||Yes|1|1|1||204.0|lbs||70.0|in||130|78|||||N/A|Yes|Left Arm
+223|204|1|1|M|Yes|Right Hand|High school graduate/diploma/GED||$25,000 - $35,000|||18|0|DCA|10.0|-522|DCA|11.6|No||No|1||1||173.0|lbs||70.0|in||117|72|||||N/A|Yes|Left Arm
+224|1|6|1|F|No|Right Hand|11th Grade||||1|15|0|DCA|10.4|-119|DCA|12.2|No||No|1||1||62.0|kg||158.0|cm||119|77||1|||Negative|Yes|Left Arm
+225|128|7|1|F|No|Right Hand|7th or 8th Grade|||1||7|-25|Lab|10.2|-149|Lab|10.7|Yes|Dexcom|Yes|1|1|1||69.0|kg||155.3|cm||109|58|||4|5|Negative|Yes|Left Arm
+226|116|9|1|F|No|Right Hand|Associate Degree||$50,000 - less than $75,000|||28|-72|DCA|8.0|-224|DCA|7.5|No||No|1||1||111.0|lbs||64.0|in||132|85|||||Negative|Yes|Left Arm
+227|80|8|1|F|No|Right Hand|7th or 8th Grade||||1|2|0|DCA|10.2|-129|DCA|10.9|No||No|1||1||54.9|kg||150.4|cm||122|75||1|||N/A|Yes|Left Arm
+228|122|6|1|F|No|Right Hand|7th or 8th Grade||$75,000 - less than $100,000|||8|-25|DCA|11.0|-95|DCA|14.0|No||Yes|1|1|1||75.6|kg||159.3|cm||127|64||1|||Negative|Yes|Left Arm
+229|194|5|1|F|No|Right Hand|7th or 8th Grade||Less than $25,000|||32|-68|DCA|7.8|-210|DCA|8.4|No||No|1||1||70.3|kg||152.9|cm||121|68|||||N/A|Yes|Right Arm
+230|167|7|1|M|No|Right Hand|11th Grade||||1|14|-44|DCA|7.8|-135|DCA|8.0|No||No|1||1||69.7|kg||175.0|cm||109|66|||5|5|N/A|Yes|Left Arm

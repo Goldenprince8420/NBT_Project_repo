@@ -1,0 +1,33 @@
+RecID|PtID|SiteID|AENotifiedDaysFromEnroll|MedCond|AdverseEventType|AEOnsetDaysFromEnroll|AEPrEnroll|AENotedStdyVisExam|AEIntensity|AERelStdyTrtUncertain|AERelStdyProc|AEEffectTrt|AESerious|AETrt|AESurg|AESurgDaysFromEnroll|AEMeds|AEOthTrt|AEOutcome|AEResDaysFromEnroll|AEDeathDaysFromEnroll|AEDeath|AEConAnomaly|AELifeThreat|AEHosp|AEDisability|AEOther|Weight|WeightMeas|WeightNotAvail|AERelLabData|AEOthRelHx|AEMedProd|AERelStdyDrugDevice|AERelStdyDrugDeviceUncertain
+1|164|4|36|Skin lesion||36|No|No|Mild||No|No change|No|No|||||Complete Recovery|50|||||||||||||||
+2|160|1|28|Itching||16|No|No|Mild||Yes|No change|No|No|||||Complete Recovery|28|||||||||||||||
+3|75|5|28|Sinus infection||26|No|No|Moderate||No|No change|No|Yes|No||Yes|No|Complete Recovery|32|||||||||||||||
+4|169|1|59|Allergic reaction||56|No|No|Moderate||No|No change|No|Yes|No||Yes|No|Ongoing (further improvement / worsening possible)||||||||||||||||
+5|141|7|7|Injection site discomfort||5|No|No|Mild||Yes|No change|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+6|143|5|25|Rash||20|No|No|Mild||No|Discontinued permanently|No|No|||||Complete Recovery|53|||||||||||||||
+7|169|1|65|Allergic reaction||65|No|No|Moderate||Yes|No change|No|Yes|No||Yes|No|Ongoing, medically stable||||||||||||||||
+8|191|1|84|Allergic reaction||75|No|No|Mild||Yes|No change|No|No|||||Ongoing, medically stable||||||||||||||||
+9|169|1|86|Allergic reaction||81|No|No|Moderate||Yes|No change|No|Yes|No||Yes|No|Ongoing (further improvement / worsening possible)||||||||||||||||
+10|161|8|60|Rash||60|No|No|Moderate||No|No change|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+11|161|8|67|Rash||67|No|No|Moderate||No|Discontinued temporarily|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+12|35|5|71|Rash||67|No|No|Moderate||No|No change|No|No|||||Complete Recovery|74|||||||||||||||
+13|60|4|0|Dizziness ||0|No|No|Mild||Yes|No change|No|No|||||Complete Recovery|0|||||||||||||||
+14|133|8|27|Hypoglycemia||21|No|No|Severe||No|No change|Yes|Yes|No||Yes|No|Complete Recovery|32|||||1|||84|kgs||Yes|No|No||
+15|35|5|86|Rash||77|No|No|Moderate||No|Discontinued temporarily|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+16|203|7|56|Contact dermatitis||50|No|Yes|Mild||Yes|No change|No|Yes|No||Yes|No|Ongoing (further improvement / worsening possible)||||||||||||||||
+17|232|10|91|Skin disorder NOS||78|No|No|Mild||No|Discontinued temporarily|No|No|||||Complete Recovery|91|||||||||||||||
+18|232|10|94|Skin disorder NOS||94|No|Yes|Mild||No|Discontinued permanently|No|No|||||Complete Recovery|247|||||||||||||||
+19|25|5|84|MRSA||73|No|No|Moderate||No|No change|No|Yes|Yes|73|Yes|No|Ongoing (further improvement / worsening possible)||||||||||||||||
+20|139|8|91|Diabetic ketoacidosis||90|No|No|Severe||No|No change|Yes|Yes|No||Yes|No|Ongoing (further improvement / worsening possible)||||||1|||29|kgs||Yes|No|No||
+21|60|4|28|Contact dermatitis||28|No|Yes|Mild||No|No change|No|No|||||Complete Recovery|40|||||||||||||||
+22|126|3|79|Skin infection||79|No|No|Moderate||No|Discontinued temporarily|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+23|60|4|70|Contact dermatitis||65|No|No|Mild||No|No change|No|No|||||Complete Recovery|84|||||||||||||||
+24|158|7|70|Diabetic ketoacidosis||69|No|No|Moderate||No|No change|Yes|Yes|No||Yes|No|Complete Recovery|70|||||1|||57|kgs||Yes|No|No||
+25|12|7|68|Contact dermatitis||56|No|Yes|Mild||No|No change|No|Yes|No||Yes|No|Ongoing (further improvement / worsening possible)||||||||||||||||
+26|173|8|31|Rash||18|No|No|Mild||No|No change|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+27|29|8|67|Hyperglycemia||67|No|No|Mild||No|No change|No|Yes|No||Yes|No|Complete Recovery|67|||||||||||||||
+28|224|1|56|Allergic skin reaction||55|No|No|Moderate||Yes|Discontinued permanently|No|Yes|No||Yes|No|Complete Recovery|70|||||||||||||||
+29|4|7|52|Pain in arm||50|No|No|Moderate||No|No change|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+30|41|9|56|Allergic skin reaction||53|No|No|Moderate||No|Discontinued permanently|No|No|||||Ongoing (further improvement / worsening possible)||||||||||||||||
+31|167|7|74|Contact dermatitis||72|No|No|Mild||No|No change|No|Yes|No||No|Yes|Ongoing (further improvement / worsening possible)||||||||||||||||
+32|126|3|79|Skin lesion||79|No|No|Moderate||Yes|Discontinued permanently|No|No|||||Complete Recovery|110|||||||||||||||
